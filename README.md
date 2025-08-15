@@ -4,7 +4,7 @@ A Python-based stock prediction tool that forecasts stock prices for Nvidia, App
 
 ## Features
 
-- **JSON Database for Sentiment Tracking** – Maintain a structured JSON database storing sentiment scores, article URLs, and relevant metadata for each company. This allows for easy updates and historical tracking of public sentiment.
+- **JSON Database for Sentiment Tracking** – Maintains a structured JSON database storing sentiment scores, and article urls. This allows for easy updates and historical tracking of public sentiment.
 - **Historical Stock Data Fetching** – Pull stock price data for mentioned companies using `yfinance`.
 - **Web Scraping for Sentiment Analysis** – Analyze news articles and public content to extract sentiment scores for each stock.
 - **Data Preprocessing** – Combine stock prices and sentiment scores into a clean dataset for modeling.
@@ -17,7 +17,7 @@ A Python-based stock prediction tool that forecasts stock prices for Nvidia, App
 - `pandas` and `numpy` for data processing
 - `scikit-learn` for machine learning models
 - `matplotlib` for visualization
-- `BeautifulSoup` or `requests` for web scraping sentiment data
+- `BeautifulSoup` and `requests` for web scraping sentiment data
 
 ## Installation
 
@@ -27,8 +27,6 @@ A Python-based stock prediction tool that forecasts stock prices for Nvidia, App
 2. Then in the terminal run:
    ```bash
    cd stock-predictor
-   ```
-   ```bash
    code .
    ```
 3. Activate the virtual environemnt:
