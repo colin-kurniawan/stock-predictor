@@ -96,5 +96,63 @@
       "url": "https://finance.yahoo.com/m/0af39bdf-91ba-3b03-a229-c7b45b70a13b/amazon-launches-same-day.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-14": [
+    {
+      "title": "Amazon (AMZN) Gets Price Target Hike After Strong Quarterly Performance",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/amazon-amzn-gets-price-target-230832090.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Amazon's Ad Business Hits Milestone: Is it the Next Revenue Pillar?",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/amazons-ad-business-hits-milestone-152100309.html",
+      "sentiment": 6
+    },
+    {
+      "title": "Why Amazon (AMZN) Stock Is Climbing Today",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/why-amazon-amzn-stock-climbing-193744566.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Instacart, grocers fall after Amazon expands same-day delivery",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/instacart-grocers-fall-amazon-expands-140034824.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Here's Why Amazon (AMZN) is a Strong Growth Stock",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/heres-why-amazon-amzn-strong-134502783.html",
+      "sentiment": 8
+    },
+    {
+      "title": "Grocers under pressure: Amazon expands same-day grocery delivery",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/video/grocers-under-pressure-amazon-expands-143230128.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Grocery News Has Amazon Stock Delivering Gains. Does It Have a 'New Narrative' Now?",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/m/10c51679-4a6e-3855-b496-4ca5fa75257e/grocery-news-has-amazon-stock.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Amazon, IBD Stock Of The Day, Delivers Early Entry As Grocery Move Hits Rivals",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/m/dfd48fce-a5b9-3445-858a-ff940e49a7a5/amazon%2C-ibd-stock-of-the-day%2C.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-15": [
+    {
+      "title": "Dow Jones Futures: Amazon Offsets Hot Inflation; Applied Materials Dives Late",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/m/19caa30b-88e3-37c9-9248-4aab2d46e01b/dow-jones-futures%3A-amazon.html",
+      "sentiment": 0
+    }
   ]
 }

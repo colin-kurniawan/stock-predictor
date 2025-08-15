@@ -68,5 +68,31 @@
       "url": "https://finance.yahoo.com/news/apple-rises-9-month-buy-162100847.html",
       "sentiment": 7
     }
+  ],
+  "2025-08-14": [
+    {
+      "title": "Apple To Reintroduce Blood Oxygen Feature On Select Watches Following Customs Ruling",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/apple-reintroduce-blood-oxygen-feature-165013768.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Berkshire Hathaway Trims Stake in Apple, Piles Into UnitedHealth Group in Q2",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/berkshire-hathaway-trims-stake-apple-212208725.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Apple, Klarna, JD.com: Trending Tickers",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/video/apple-klarna-jd-com-trending-150410316.html",
+      "sentiment": -2
+    },
+    {
+      "title": "Apple Watch blood oxygen, Klarna users, Tapestry stock plunges",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/video/apple-watch-blood-oxygen-klarna-171953132.html",
+      "sentiment": -1
+    }
   ]
 }

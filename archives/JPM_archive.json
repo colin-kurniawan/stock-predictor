@@ -38,5 +38,37 @@
       "url": "https://finance.yahoo.com/news/jpmorganchase-present-barclays-global-financial-202000611.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-14": [
+    {
+      "title": "Why Is JPMorgan Chase & Co. (JPM) Up 1.7% Since Last Earnings Report?",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/why-jpmorgan-chase-co-jpm-153003587.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Market Chatter: JPMorgan Chase Sees Key Credit Team Departures in Hong Kong",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/market-chatter-jpmorgan-chase-sees-190212962.html",
+      "sentiment": 1
+    },
+    {
+      "title": "J.P. Morgan Says These 2 Stocks Are Top Picks for the Rest of 2025",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/j-p-morgan-says-2-100304878.html",
+      "sentiment": 1
+    },
+    {
+      "title": "How Citi and JPMorgan's blockchain moves influence payments",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/m/9769a8b4-bd00-3dfa-acc9-8e11b361aa80/how-citi-and-jpmorgan%27s.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Trump Says He Was \u2018Debanked\u2019 by JPMorgan \u2014 Could It Happen to You?",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/trump-says-debanked-jpmorgan-could-141334966.html",
+      "sentiment": 0
+    }
   ]
 }

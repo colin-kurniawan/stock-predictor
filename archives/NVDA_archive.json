@@ -74,5 +74,43 @@
       "url": "https://finance.yahoo.com/news/investors-heavily-search-nvidia-corporation-130004808.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-14": [
+    {
+      "title": "Nvidia, AMD Adjust to 'New Rules of the Game' With 15% China Fee, Wedbush Says",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/nvidia-amd-adjust-apos-rules-150047203.html",
+      "sentiment": 1
+    },
+    {
+      "title": "NVIDIA (NVDA) Collaborates With Cadence to Revolutionize AI Power Analysis With 97% Accuracy",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-collaborates-cadence-revolutionize-172121284.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Sure, Nvidia\u2019s (NVDA) Hot But Bargain-Hunting Investors Should Consider This Overlooked Semiconductor Name",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/m/d55021cb-072c-3444-a869-6025fa8125a4/sure%2C-nvidia%E2%80%99s-%28nvda%29-hot-but.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Kevin O'Leary Says Nvidia, AMD Still Win Under Trump China Plan Despite 15% 'Form Of Blackmail' Levy",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/kevin-oleary-says-nvidia-amd-190100564.html",
+      "sentiment": -2
+    },
+    {
+      "title": "Wedbush: Nvidia, AMD China AI Deal a 'Bullish Catalyst' for Big Tech",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/wedbush-nvidia-amd-china-ai-175410596.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Nvidia's Next Challenger? Intel-Backed Rivos Eyes $500 Million to Take On AI Inference Market",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/nvidias-next-challenger-intel-backed-142109304.html",
+      "sentiment": 0
+    }
   ]
 }

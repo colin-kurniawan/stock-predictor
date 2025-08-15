@@ -68,5 +68,79 @@
       "url": "https://finance.yahoo.com/news/guide-using-edits-meta-capcut-155944040.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-14": [
+    {
+      "title": "Market Chatter: Meta Platform's AI Policies Allowed Chatbots to Engage in 'Sensual' Chats With Children",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/market-chatter-meta-platform-apos-125226215.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Meta Shares Tips on How to Improve Ad Performance with AI",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/m/f93aae38-b275-3e96-9895-9dd1eb1e770d/meta-shares-tips-on-how-to.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Meta Provides More Performance Insights for Creators",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/m/73741222-6cae-3b6d-8bac-ea1a889c2e5c/meta-provides-more.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Exclusive-Meta\u2019s AI rules have let bots hold \u2018sensual\u2019 chats with kids, offer false medical info",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/m/06f9ed23-7f4a-3350-8c52-217469a29644/exclusive-meta%E2%80%99s-ai-rules.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta\u2019s Superintelligence Dream Team Will Be Management Challenge of the Century",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/meta-superintelligence-dream-team-management-151049488.html",
+      "sentiment": 0
+    },
+    {
+      "title": "US senators call for Meta probe after Reuters report on its AI policies",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/us-senators-call-meta-probe-192807082.html",
+      "sentiment": 0
+    },
+    {
+      "title": "An internal Meta AI document said chatbots could have 'sensual' conversations with children",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/m/938eb282-b438-3c55-bb88-fbfbdb6b50f3/an-internal-meta-ai-document.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Zacks Earnings Trends Highlights: Meta Platforms and Alphabet",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/zacks-earnings-trends-highlights-meta-122400476.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Meta Platforms Insider Sold Shares Worth $398,090, According to a Recent SEC Filing",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/meta-platforms-insider-sold-shares-084213879.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/cohere-hires-long-time-meta-140000607.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Leaked Meta AI rules show chatbots were allowed to have romantic chats with kids",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/leaked-meta-ai-rules-show-154819754.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta Platforms Insider Sold Shares Worth $12,472,489, According to a Recent SEC Filing",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/meta-platforms-insider-sold-shares-090311916.html",
+      "sentiment": 1
+    }
   ]
 }

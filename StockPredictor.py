@@ -52,7 +52,6 @@ class StockPredictor:
         
         return predicted_price
 
-
 if __name__ == "__main__": 
     stocks = ["NVDA", "AAPL", "MSFT", "AMZN", "TSLA", "GOOGL", "META", "JNJ", "V", "JPM"] 
     for stock in stocks: 

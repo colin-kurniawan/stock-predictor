@@ -36,5 +36,37 @@
       "url": "https://finance.yahoo.com/m/7dafd458-c1df-3c40-ae0a-5730fae20d81/tesla-stock-didn%E2%80%99t-make-it.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-14": [
+    {
+      "title": "Guggenheim Reiterates Sell on Tesla (TSLA) Despite FSD and Robotaxi Updates",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/guggenheim-reiterates-sell-tesla-tsla-230626944.html",
+      "sentiment": -2
+    },
+    {
+      "title": "Tesla Is Ramping Up Its Robotaxi Plans. What Does That Mean for TSLA Stock?",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/m/3416a906-c91c-332a-8280-992bd0840553/tesla-is-ramping-up-its.html",
+      "sentiment": -2
+    },
+    {
+      "title": "Tesla Hiring Prototype Vehicle Operators in New York For Possible NYC Robotaxi Ride-Hailing",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/tesla-hiring-prototype-vehicle-operators-103345135.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Unpacking Q2 Earnings: Tesla (NASDAQ:TSLA) In The Context Of Other Automobile Manufacturing Stocks",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/unpacking-q2-earnings-tesla-nasdaq-033536400.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Tesla Is Hiring, the Stock Is Down. Musk Is Ramping Up His Robo-Taxi Drive.",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/m/894abb4d-8924-3b86-9a56-58ffc41f94a7/tesla-is-hiring%2C-the-stock-is.html",
+      "sentiment": 0
+    }
   ]
 }

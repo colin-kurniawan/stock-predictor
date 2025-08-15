@@ -12,5 +12,13 @@
       "url": "https://finance.yahoo.com/m/ebd763f7-27b1-3b15-b456-c2ec9dab17c9/microsoft-goes-long-in.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-14": [
+    {
+      "title": "Market Chatter: Microsoft Planning Mandatory Return-to-Office Policy",
+      "date": "2025-08-14",
+      "url": "https://finance.yahoo.com/news/market-chatter-microsoft-planning-mandatory-164912933.html",
+      "sentiment": 1
+    }
   ]
 }
