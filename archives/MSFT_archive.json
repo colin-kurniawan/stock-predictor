@@ -20,5 +20,33 @@
       "url": "https://finance.yahoo.com/news/market-chatter-microsoft-planning-mandatory-164912933.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-16": [
+    {
+      "title": "Microsoft (MSFT) Initiates Update for Arm-based (ARM) Windows 11 PCs",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/news/microsoft-msft-initiates-arm-based-021307801.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-08-15": [
+    {
+      "title": "Here is What to Know Beyond Why Microsoft Corporation (MSFT) is a Trending Stock",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/know-beyond-why-microsoft-corporation-130003580.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Can Microsoft Stock Hit $680 in 2025?",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/m/2cc45089-c51a-3946-b6a8-e8faea3bbf55/can-microsoft-stock-hit-%24680.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Update: Market Chatter: Microsoft Planning Mandatory Return-to-Office Policy",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/market-chatter-microsoft-planning-mandatory-101849059.html",
+      "sentiment": 1
+    }
   ]
 }

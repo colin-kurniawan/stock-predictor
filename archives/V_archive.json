@@ -62,5 +62,27 @@
       "url": "https://finance.yahoo.com/news/visa-expands-click-pay-across-021500222.html",
       "sentiment": 2
     }
+  ],
+  "2025-08-16": [
+    {
+      "title": "Macquarie Maintains a Buy Rating on Visa Inc. (V), Sets a $425 PT",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/news/macquarie-maintains-buy-rating-visa-014338645.html",
+      "sentiment": 6
+    }
+  ],
+  "2025-08-15": [
+    {
+      "title": "Visa Inc. (V) is Attracting Investor Attention: Here is What You Should Know",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/visa-inc-v-attracting-investor-130005099.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Visa Launches Global Cybersecurity Advisory Practice",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/visa-launches-global-cybersecurity-advisory-065112294.html",
+      "sentiment": 1
+    }
   ]
 }

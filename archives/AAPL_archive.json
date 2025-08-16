@@ -94,5 +94,31 @@
       "url": "https://finance.yahoo.com/video/apple-watch-blood-oxygen-klarna-171953132.html",
       "sentiment": -1
     }
+  ],
+  "2025-08-15": [
+    {
+      "title": "Jim Cramer Defends Apple Inc. (AAPL) Against Elon Musk",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/jim-cramer-defends-apple-inc-183215916.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Apple Releases Sixth Developer Beta for iOS 26",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/apple-releases-sixth-developer-beta-065114234.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Buffett's Berkshire Hathaway sold Apple shares. Should you?",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/video/buffetts-berkshire-hathaway-sold-apple-141838562.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Apple Adds Redesigned Blood Oxygen Feature After Legal Dispute",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/apple-adds-redesigned-blood-oxygen-172419765.html",
+      "sentiment": 1
+    }
   ]
 }

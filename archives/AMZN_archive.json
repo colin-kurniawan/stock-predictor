@@ -153,6 +153,42 @@
       "date": "2025-08-15",
       "url": "https://finance.yahoo.com/m/19caa30b-88e3-37c9-9248-4aab2d46e01b/dow-jones-futures%3A-amazon.html",
       "sentiment": 0
+    },
+    {
+      "title": "Amazon Expands Same-Day Grocery Delivery to Steer Competition",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/amazon-expands-same-day-grocery-151000719.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN): Jim Cramer Maintains It Needs To Buy NVIDIA",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-jim-205325949.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Investors Heavily Search Amazon.com, Inc. (AMZN): Here is What You Need to Know",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/investors-heavily-search-amazon-com-130003147.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Billionaire Bill Ackman Loads Up on Amazon, Alphabet in Big Tech Power Play",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-loads-amazon-174755865.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Wolfe Adjusts Price Target on Amazon.com to $265 From $260, Maintains Outperform Rating",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/wolfe-adjusts-price-target-amazon-112436925.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Amazon Just Gave Uber Stock Bad News. Should You Sell UBER Here?",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/m/7fc83ec3-155c-3d24-bfb4-1df253b881c9/amazon-just-gave-uber-stock.html",
+      "sentiment": 1
     }
   ]
 }

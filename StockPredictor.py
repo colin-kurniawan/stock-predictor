@@ -47,7 +47,7 @@ class StockPredictor:
         last_row = df.iloc[-1][['Open', 'High', 'Low', 'Volume', 'Close', 'Sentiment']].values.reshape(1, -1)
 
         predicted_price = model.predict(last_row)[0]
-        print(f"Predicted next trading day's close for {company_name}: {predicted_price:.2f}")
+        print(f"\nPredicted next trading day's close for {company_name}: {predicted_price:.2f}")
         print(df)
         
         return predicted_price

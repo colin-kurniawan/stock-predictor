@@ -68,5 +68,31 @@
       "url": "https://finance.yahoo.com/m/894abb4d-8924-3b86-9a56-58ffc41f94a7/tesla-is-hiring%2C-the-stock-is.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-15": [
+    {
+      "title": "Why Tesla (TSLA) Is Scaling Back In-House Chips and Teaming Up With Nvidia",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/why-tesla-tsla-scaling-back-231027553.html",
+      "sentiment": 0
+    },
+    {
+      "title": "TD Cowen Lifts Tesla (TSLA) Price Target, Keeps Buy Rating",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/td-cowen-lifts-tesla-tsla-070301227.html",
+      "sentiment": 6
+    },
+    {
+      "title": "Tesla Stock Drops. This Sales Stream Is Drying Up.",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/m/5e837888-9f3b-30d9-b801-fdbb943e60f3/tesla-stock-drops.-this-sales.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Tesla Seeks to Enter the British Energy Market Amid EV Slowdown",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/tesla-seeks-enter-british-energy-065132376.html",
+      "sentiment": 1
+    }
   ]
 }

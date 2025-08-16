@@ -62,5 +62,19 @@
       "url": "https://finance.yahoo.com/m/6497e1b0-262e-35a0-bad6-6094cafc46e0/google-gets-%2435-billion-offer.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-15": [
+    {
+      "title": "Google Expands AI Use to Combat Invalid Ad Traffic",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/google-expands-ai-combat-invalid-065107994.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Oracle Taps Google's Gemini AI Models To Supercharge Cloud Services",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/oracle-taps-googles-gemini-ai-113614721.html",
+      "sentiment": 0
+    }
   ]
 }

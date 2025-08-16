@@ -70,5 +70,19 @@
       "url": "https://finance.yahoo.com/news/trump-says-debanked-jpmorgan-could-141334966.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-15": [
+    {
+      "title": "JPMorgan Chase's Credit Card Delinquency Rate Rises in July",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/jpmorgan-chase-apos-credit-card-153341414.html",
+      "sentiment": 1
+    },
+    {
+      "title": "JPMorganChase Declares Preferred Stock Dividends",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/jpmorganchase-declares-preferred-stock-dividends-202800863.html",
+      "sentiment": 0
+    }
   ]
 }

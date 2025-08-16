@@ -142,5 +142,55 @@
       "url": "https://finance.yahoo.com/news/meta-platforms-insider-sold-shares-090311916.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-15": [
+    {
+      "title": "Meta's Consumer AI App Struggles",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/video/metas-consumer-ai-app-struggles-193552426.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta plans fourth restructuring of AI efforts in six months, The Information reports",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/meta-plans-fourth-restructuring-ai-223404105.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Market Chatter: Meta Faces Calls for Congressional Probe Into Chatbot Policy Involving Children",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/market-chatter-meta-faces-calls-110636242.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Meta's AI Dream Is Glitching--Here's Why Investors Should Pay Attention",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/metas-ai-dream-glitching-heres-165701690.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta faces backlash over AI policy that lets bots have \u2018sensual\u2019 conversations with children",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/m/5a4f05dd-9984-39d9-ad32-cd3173c454bd/meta-faces-backlash-over-ai.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Aspire.io, Meta Partner to Launch CreatorAds Suite for Marketers",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/aspire-io-meta-partner-launch-065106988.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Meta allowed AI chatbots to have \u2018sensual\u2019 conversations with children",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/m/a857ec7b-c0e3-3add-856c-3b760bdf7b01/meta-allowed-ai-chatbots-to.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Sen. Hawley to probe Meta after report finds its AI chatbots flirt with kids",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/sen-hawley-probe-meta-report-203840656.html",
+      "sentiment": 0
+    }
   ]
 }

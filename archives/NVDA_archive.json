@@ -112,5 +112,37 @@
       "url": "https://finance.yahoo.com/news/nvidias-next-challenger-intel-backed-142109304.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-15": [
+    {
+      "title": "NVIDIA (NVDA) Stock Gets Bullish Call Amid U.S.\u2013China Chip Agreement Reports",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-stock-gets-bullish-230659387.html",
+      "sentiment": 1
+    },
+    {
+      "title": "NVIDIA (NVDA) Partners With Virtana For Enhanced Enterprise AI Factory Observability",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-partners-virtana-enhanced-171944679.html",
+      "sentiment": 9
+    },
+    {
+      "title": "Nvidia, AMD Agree to 15% Export Levy on China AI Chips",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/nvidia-amd-agree-15-export-220517787.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Nvidia, AMD Price Targets Raised As AI Demand Keeps Roaring",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/nvidia-amd-price-targets-raised-165957508.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Jim Cramer Discusses NVIDIA Return to China Market",
+      "date": "2025-08-15",
+      "url": "https://finance.yahoo.com/news/jim-cramer-discusses-nvidia-return-065329647.html",
+      "sentiment": -3
+    }
   ]
 }
