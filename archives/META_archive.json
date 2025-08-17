@@ -192,5 +192,19 @@
       "url": "https://finance.yahoo.com/news/sen-hawley-probe-meta-report-203840656.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-16": [
+    {
+      "title": "META PCs Enter the Top 25 Fastest-Growing Companies in Arizona on the 2025 Inc 5000 List",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/news/meta-pcs-enter-top-25-173000075.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs\u2014combined",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/news/meta-spends-more-guarding-mark-100300414.html",
+      "sentiment": 2
+    }
   ]
 }

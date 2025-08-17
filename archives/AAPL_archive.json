@@ -120,5 +120,25 @@
       "url": "https://finance.yahoo.com/news/apple-adds-redesigned-blood-oxygen-172419765.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-16": [
+    {
+      "title": "Where Will Apple Stock Be in 5 Years?",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/m/11dd0c8a-b674-3748-bf23-9eff4ed80168/where-will-apple-stock-be-in.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Does Apple Risk Falling Behind on AI?",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/video/does-apple-risk-falling-behind-140727515.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Apple's 10% Stock Pop: Time to Invest in the Technology Giant Embracing America?",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/m/289e53a7-a04b-3b8f-9172-eaece020a4a8/apple%27s-10%25-stock-pop%3A-time.html",
+      "sentiment": 2
+    }
   ]
 }

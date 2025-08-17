@@ -144,5 +144,19 @@
       "url": "https://finance.yahoo.com/news/jim-cramer-discusses-nvidia-return-065329647.html",
       "sentiment": -3
     }
+  ],
+  "2025-08-16": [
+    {
+      "title": "Did Nvidia Make a Mistake by Selling SoundHound AI Stock? The Answer Might Surprise You.",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/m/60706258-630f-3e5a-864d-f0476814229a/did-nvidia-make-a-mistake-by.html",
+      "sentiment": 8
+    },
+    {
+      "title": "Nvidia and AMD\u2019s \u2018special treatment\u2019 from Trump is shaking up an already tangled global chip supply chain",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/news/nvidia-amd-special-treatment-trump-110000802.html",
+      "sentiment": -2
+    }
   ]
 }

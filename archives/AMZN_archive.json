@@ -190,5 +190,31 @@
       "url": "https://finance.yahoo.com/m/7fc83ec3-155c-3d24-bfb4-1df253b881c9/amazon-just-gave-uber-stock.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-16": [
+    {
+      "title": "Where Will Amazon Stock Be in 5 Years?",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/m/b6c583d4-a918-38ac-8210-4b893db28989/where-will-amazon-stock-be-in.html",
+      "sentiment": 9
+    },
+    {
+      "title": "3 Reasons to Buy Amazon Stock Like There's No Tomorrow",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/m/e07711e7-ff91-387a-972d-ca1e2e815459/3-reasons-to-buy-amazon-stock.html",
+      "sentiment": 3
+    },
+    {
+      "title": "S&P 500 Titans Amazon And Netflix Lead Five Stocks Near Buy Points",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/m/f1aa1712-f6b9-3dbd-8474-d09790bf40e8/s%26p-500-titans-amazon-and.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Proper Ecom Opens Done-For-You Amazon Business Program",
+      "date": "2025-08-16",
+      "url": "https://finance.yahoo.com/news/proper-ecom-opens-done-amazon-041300033.html",
+      "sentiment": -3
+    }
   ]
 }
