@@ -54,5 +54,25 @@
       "url": "https://finance.yahoo.com/news/market-chatter-microsoft-planning-mandatory-101849059.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-17": [
+    {
+      "title": "Citi Reiterates Buy on Microsoft (MSFT), Calls It a Top Software Pick",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/citi-reiterates-buy-microsoft-msft-212354634.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Brazil\u2019s Antitrust Watchdog Probes Microsoft (MSFT) following Opera\u2019s Complaint",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/brazil-antitrust-watchdog-probes-microsoft-071644625.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Ricoh Asia Pacific and Microsoft Collaborate to Empower a Future-Ready Workforce Through AI",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/ricoh-asia-pacific-microsoft-collaborate-231900687.html",
+      "sentiment": 0
+    }
   ]
 }

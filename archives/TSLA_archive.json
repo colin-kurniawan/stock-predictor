@@ -102,5 +102,39 @@
       "url": "https://finance.yahoo.com/m/66c3a0af-86bd-30a4-9f1e-b3096b801c03/want-to-be-a-tesla-test.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-18": [
+    {
+      "title": "Tesla's Dual Bets: Robotaxis and Optimus Could Define Its Next Decade",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/m/5ddc9f06-dcc1-3ed0-99d3-62673ddb4f10/tesla%27s-dual-bets%3A-robotaxis.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Tesla almost halves UK monthly lease fee as sales slump, The Times reports",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/tesla-almost-halves-uk-monthly-000117185.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-17": [
+    {
+      "title": "Your Wait for a Tesla Robo-Taxi Ride Is Almost Over, Musk Says",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/m/2ed9c832-29ab-3779-a1c3-39ba5d101aa8/your-wait-for-a-tesla.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Thinking of Buying Tesla Stock? Here Are 2 Red Flags to Watch",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/m/6f485721-2ab9-3644-a55f-95716f71539b/thinking-of-buying-tesla.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Is Palantir the Next Tesla?",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/m/b646a045-7b1e-3a90-aafb-a042b54eef72/is-palantir-the-next-tesla%3F.html",
+      "sentiment": 1
+    }
   ]
 }

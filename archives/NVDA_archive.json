@@ -158,5 +158,49 @@
       "url": "https://finance.yahoo.com/news/nvidia-amd-special-treatment-trump-110000802.html",
       "sentiment": -2
     }
+  ],
+  "2025-08-17": [
+    {
+      "title": "Piper Sandler Raises NVIDIA (NVDA) Price Target to $225 Ahead of Earnings",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/piper-sandler-raises-nvidia-nvda-212249458.html",
+      "sentiment": 0
+    },
+    {
+      "title": "NVIDIA Corporation (NVDA): I Spend A Lot Of Time Shooting Down Rumors, Says Jim Cramer",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-spend-lot-211354053.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Prediction: Nvidia's New China Deal Will Be a Game-Changer. Here's Why",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/m/e7e8af10-0296-3235-9a64-0a46a948b18c/prediction%3A-nvidia%27s-new.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Coca-Cola, Amazon, Google, And Nvidia Have Used This Startup's AI Avatars \u2014 Inside Jeff Lu's $40M Rise To America's Fastest-Growing Company",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/coca-cola-amazon-google-nvidia-163146746.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Nvidia quietly buys more stock in AI infrastructure favorite",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/m/c0e50540-2a2c-31a4-9b4c-7bb7e469d768/nvidia-quietly-buys-more.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Should You Buy Nvidia Stock Before Aug. 27?",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/m/af1fde5d-6635-326e-8625-1332f77c4cc4/should-you-buy-nvidia-stock.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Nvidia Stock Investors Just Got Good News From President Trump and Wall Street",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/m/54e48ed9-5454-33cc-9a7a-5f24942a4e8b/nvidia-stock-investors-just.html",
+      "sentiment": -3
+    }
   ]
 }

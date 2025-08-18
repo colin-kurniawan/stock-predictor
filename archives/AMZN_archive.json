@@ -216,5 +216,43 @@
       "url": "https://finance.yahoo.com/news/proper-ecom-opens-done-amazon-041300033.html",
       "sentiment": -3
     }
+  ],
+  "2025-08-17": [
+    {
+      "title": "Why Amazon\u2019s (AMZN) Diversification Strategy Keeps It on Wall Street\u2019s Radar",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/why-amazon-amzn-diversification-strategy-212627287.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN) Is The Largest Position In My Trust, Says Jim Cramer",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-largest-211631221.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Amazon (AMZN) Expands Same-Day Grocery Delivery, Escalating Retail Delivery Battle",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/amazon-amzn-expands-same-day-045411656.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Coca-Cola, Amazon, Google, And Nvidia Have Used This Startup's AI Avatars \u2014 Inside Jeff Lu's $40M Rise To America's Fastest-Growing Company",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/coca-cola-amazon-google-nvidia-163146746.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN): A Bull Case Theory",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-bull-024329139.html",
+      "sentiment": 7
+    },
+    {
+      "title": "Amazon analysts turn heads with surprising take on grocery plan",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/m/f686ba43-b66c-3bcf-8268-3b3d28f22b83/amazon-analysts-turn-heads.html",
+      "sentiment": 2
+    }
   ]
 }

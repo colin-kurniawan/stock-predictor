@@ -140,5 +140,37 @@
       "url": "https://finance.yahoo.com/m/289e53a7-a04b-3b8f-9172-eaece020a4a8/apple%27s-10%25-stock-pop%3A-time.html",
       "sentiment": 2
     }
+  ],
+  "2025-08-17": [
+    {
+      "title": "Wall Street Remains Bullish on Apple (AAPL) Amid AI Upside and Resilient Earnings",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/wall-street-remains-bullish-apple-212155107.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Apple Accidentally Exposes Top-Secret Hardware Plans Across Seven Product Lines",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/apple-accidentally-exposes-top-secret-133110676.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Apple Inc. (AAPL) Announces New Releases in Apple Arcade Segment",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/apple-inc-aapl-announces-releases-061252996.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Apple Inc. (AAPL): A Bull Case Theory",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/news/apple-inc-aapl-bull-case-023424804.html",
+      "sentiment": 9
+    },
+    {
+      "title": "Apple's Robot Plans Resurface\u2014Here's the Latest",
+      "date": "2025-08-17",
+      "url": "https://finance.yahoo.com/m/87e9a15a-a373-3ec8-8b49-ad681055b824/apple%27s-robot-plans.html",
+      "sentiment": 1
+    }
   ]
 }
