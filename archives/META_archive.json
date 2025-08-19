@@ -214,5 +214,81 @@
       "url": "https://finance.yahoo.com/m/818dde6d-3d73-3525-8c25-a0ed77998eb8/meta%E2%80%99s-consolidating-more-of.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-19": [
+    {
+      "title": "Meta restructures AI group again in pirsuit of superintelligence",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/meta-restructures-ai-group-again-163342766.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta Focuses on New Smart(er) Glasses",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/m/887c9294-286a-3088-9f02-313ac13031c1/meta-focuses-on-new-smart%28er%29.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Brazil asks Meta to remove chatbots that 'eroticize' children",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/m/7adb4f7b-3493-386c-b774-7a670a3999a7/brazil-asks-meta-to-remove.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-18": [
+    {
+      "title": "Meta, Character.AI Under Investigation Over Deceptive Mental Health Marketing",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/meta-character-ai-under-investigation-164802891.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Meta Stock Falls As AI, Metaverse Questions In Focus",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/m/02798a9e-5b51-3f57-aec4-1cc3f31839bc/meta-stock-falls-as-ai%2C.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta Could Be Set To Announce New Smart Glasses Next Month",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/m/5d0944ca-ea3f-393a-b303-fecb51bcdfb8/meta-could-be-set-to-announce.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Meta's reported shake-up, Hims & Hers sinks on GoodRx\u2013Novo deal",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/video/metas-reported-shake-hims-hers-161806382.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta Platforms, Inc. (META) is Attracting Investor Attention: Here is What You Should Know",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-attracting-130006932.html",
+      "sentiment": 2
+    },
+    {
+      "title": "U.S. Senators Demand Investigation Into Meta (META) Over Child Safety and AI Policies",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/u-senators-demand-investigation-meta-151925270.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Facebook-Parent Meta Readies \u2018Hypernova\u2019 Glasses. What It Means for the Stock.",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/m/c464c5ce-ac3a-3a78-80d0-e2b90044b6a4/facebook-parent-meta-readies.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Why Meta (META) Stock Is Trading Lower Today",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/why-meta-meta-stock-trading-184118296.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Market Chatter: Meta Platforms Eyes Fourth Restructuring of AI Efforts in 6 Months",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/market-chatter-meta-platforms-eyes-100342181.html",
+      "sentiment": 1
+    }
   ]
 }

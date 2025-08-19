@@ -74,5 +74,21 @@
       "url": "https://finance.yahoo.com/news/ricoh-asia-pacific-microsoft-collaborate-231900687.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-19": [
+    {
+      "title": "Microsoft-Backed OpenAI Launches Subscription Plan in India at $4.59 a Month",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/microsoft-backed-openai-launches-subscription-103110654.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-08-18": [
+    {
+      "title": "Microsoft's Azure Boom Lifts Cloud Revenues: More Upside Ahead?",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/microsofts-azure-boom-lifts-cloud-155400211.html",
+      "sentiment": 2
+    }
   ]
 }

@@ -115,6 +115,12 @@
       "date": "2025-08-18",
       "url": "https://finance.yahoo.com/news/tesla-almost-halves-uk-monthly-000117185.html",
       "sentiment": 0
+    },
+    {
+      "title": "Wall Street Watch: Tesla (TSLA) Neutral, Robotaxi Push Targets Half of U.S.",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/wall-street-watch-tesla-tsla-173127994.html",
+      "sentiment": 0
     }
   ],
   "2025-08-17": [
@@ -135,6 +141,68 @@
       "date": "2025-08-17",
       "url": "https://finance.yahoo.com/m/b646a045-7b1e-3a90-aafb-a042b54eef72/is-palantir-the-next-tesla%3F.html",
       "sentiment": 1
+    }
+  ],
+  "2025-08-19": [
+    {
+      "title": "Here is What to Know Beyond Why Tesla, Inc. (TSLA) is a Trending Stock",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/know-beyond-why-tesla-inc-130003788.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Tesla's 10X P/S Premium: Is the Stock a Buy, Hold or Sell Now?",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/teslas-10x-p-premium-stock-131200750.html",
+      "sentiment": -3
+    },
+    {
+      "title": "Can Tesla's New Model Y L Boost its Sales Volumes in China?",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/teslas-model-y-l-boost-121700379.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Tesla Launches New Model Y L in China",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/tesla-launches-model-y-l-101755269.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Guggenheim Says Tesla\u2019s (TSLA) Opening of Austin Robotaxi Service to the Public \u201cQuicker Than We Were Expecting\u201d",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/guggenheim-says-tesla-tsla-opening-040143135.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Tesla Cybertruck Sales Fall Well Short of Hype",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/tesla-cybertruck-sales-fall-well-171015872.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Tesla Is in the S&P 500: 4 Things That Means for Investors in 2025",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/tesla-p-500-4-things-145806640.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Tesla drivers can pursue class action over self-driving claims, judge rules",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/tesla-drivers-pursue-class-action-150638985.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Tesla Rival XPeng Deliveries Growth Accelerates To 103,181, Margins Expand",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/tesla-rival-xpeng-deliveries-growth-111025763.html",
+      "sentiment": -2
+    },
+    {
+      "title": "Tesla Launches Six-Seat Model Y L In China For $47,180",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/m/113b2fed-8455-3350-9194-a9c5325965ef/tesla-launches-six-seat-model.html",
+      "sentiment": 0
     }
   ]
 }

@@ -84,5 +84,25 @@
       "url": "https://finance.yahoo.com/news/coca-cola-amazon-google-nvidia-163146746.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-19": [
+    {
+      "title": "Market Chatter: Alphabet's Google Proposes Play Store Changes to Avoid Future EU Fines",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/market-chatter-alphabet-apos-google-155622460.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Google Expands Stake In Data Center Firm, Analyst Hikes Price Target",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/m/e00adb62-fde6-3f3a-bf9b-0adc80d2f319/google-expands-stake-in-data.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Google settles YouTube children's privacy lawsuit",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/m/b9d9ac41-d983-3048-9b81-0497fd3fefc5/google-settles-youtube.html",
+      "sentiment": -1
+    }
   ]
 }

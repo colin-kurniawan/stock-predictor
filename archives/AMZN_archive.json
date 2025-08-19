@@ -254,5 +254,27 @@
       "url": "https://finance.yahoo.com/m/f686ba43-b66c-3bcf-8268-3b3d28f22b83/amazon-analysts-turn-heads.html",
       "sentiment": 2
     }
+  ],
+  "2025-08-19": [
+    {
+      "title": "Amazon Fresh Groceries Same-Day Delivery Offering \"Very Competitive\" With Walmart+, Oppenheimer Says",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/amazon-fresh-groceries-same-day-142054739.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Amazon Shares Lag Behind in Stock Market Obsessed with AI",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/amazon-shares-pay-price-remaining-105627346.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-08-18": [
+    {
+      "title": "Market Chatter: Amazon.com Increases Office Space at WeWork in Midtown Manhattan",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/market-chatter-amazon-com-increases-212310053.html",
+      "sentiment": 1
+    }
   ]
 }

@@ -84,5 +84,19 @@
       "url": "https://finance.yahoo.com/news/visa-launches-global-cybersecurity-advisory-065112294.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-19": [
+    {
+      "title": "Lithic Integrates Visa\u2019s Latest API to Upgrade Cardholders and Generate Revenue for Issuers Faster",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/lithic-integrates-visa-latest-api-140000155.html",
+      "sentiment": 1
+    },
+    {
+      "title": "KBW Keeps Outperform rating on Visa Inc. (V)",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/kbw-keeps-outperform-rating-visa-031445301.html",
+      "sentiment": 5
+    }
   ]
 }

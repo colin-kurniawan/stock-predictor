@@ -6,5 +6,21 @@
       "url": "https://finance.yahoo.com/news/why-johnson-johnson-jnj-7-153003526.html",
       "sentiment": 12
     }
+  ],
+  "2025-08-18": [
+    {
+      "title": "Investors Heavily Search Johnson & Johnson (JNJ): Here is What You Need to Know",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/investors-heavily-search-johnson-johnson-130005178.html",
+      "sentiment": 3
+    }
+  ],
+  "2025-08-19": [
+    {
+      "title": "Johnson & Johnson Insider Sold Shares Worth $2,975,571, According to a Recent SEC Filing",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-insider-sold-shares-072828763.html",
+      "sentiment": 1
+    }
   ]
 }

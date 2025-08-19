@@ -202,5 +202,63 @@
       "url": "https://finance.yahoo.com/m/54e48ed9-5454-33cc-9a7a-5f24942a4e8b/nvidia-stock-investors-just.html",
       "sentiment": -3
     }
+  ],
+  "2025-08-19": [
+    {
+      "title": "NVDA: Nvidia, Broadcom Lead as Citi Bets on More Upside in Chip Sector",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/nvda-nvidia-broadcom-lead-citi-161753224.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Market Chatter: Nvidia Developing Powerful AI Chip for China",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/market-chatter-nvidia-developing-powerful-101826689.html",
+      "sentiment": 1
+    },
+    {
+      "title": "NVIDIA vs. Broadcom: Which AI Semiconductor Stock Offers More Upside?",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/nvidia-vs-broadcom-ai-semiconductor-120800357.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Intel stock rises, report of new Nvidia chip for China, Air Canada strike",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/video/intel-stock-rises-report-nvidia-171830999.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Nvidia Wavers On Huang Stock-Sale, China Chip News Ahead Of Earnings. Is Nvidia A Buy Or Sell?",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/m/e8ca7c15-707e-3584-a3c6-ccb42cc0fb40/nvidia-wavers-on-huang.html",
+      "sentiment": 0
+    },
+    {
+      "title": "DoorDash, BHP, Nvidia: Trending Stocks",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/video/doordash-bhp-nvidia-trending-stocks-123448039.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Nvidia Stock Inches Lower. AI Chip News, Huang\u2019s Sales, and Earnings Are Swirling.",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/m/c9b07249-35f6-3639-97d1-6d768bdbf5e6/nvidia-stock-inches-lower.-ai.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Here's How Much a $1000 Investment in Nvidia Made 10 Years Ago Would Be Worth Today",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/heres-much-1000-investment-nvidia-123001389.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-18": [
+    {
+      "title": "NVIDIA (NVDA) Reiterated Overweight as Rubin Chip Stays on Track",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-reiterated-overweight-rubin-173823353.html",
+      "sentiment": 0
+    }
   ]
 }

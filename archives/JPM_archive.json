@@ -84,5 +84,45 @@
       "url": "https://finance.yahoo.com/news/jpmorganchase-declares-preferred-stock-dividends-202800863.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-19": [
+    {
+      "title": "JPMorgan (JPM) Announces Dividends for Preferred Stock",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/jpmorgan-jpm-announces-dividends-preferred-031451373.html",
+      "sentiment": 5
+    },
+    {
+      "title": "At JPMorgan's new HQ, the tech knows who you are \u2014 and how you take your coffee",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/m/7a0be957-4310-33fb-ba8e-375411e06f07/at-jpmorgan%27s-new-hq%2C-the.html",
+      "sentiment": 0
+    },
+    {
+      "title": "J.P. Morgan Asset Management Unveils New JPMorgan Equity and Options ETF (JOYT)",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/j-p-morgan-asset-management-130000830.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-18": [
+    {
+      "title": "Wall Street Analysts Think JPMorgan Chase & Co. (JPM) Is a Good Investment: Is It?",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/wall-street-analysts-think-jpmorgan-133002639.html",
+      "sentiment": 11
+    },
+    {
+      "title": "J.P. Morgan Asset Management Announces Liquidation of JPMorgan Carbon Transition U.S. Equity ETF (JCTR) and JPMorgan Climate Change Solutions ETF (TEMP)",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/j-p-morgan-asset-management-201500679.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Market Chatter: Goldman Sachs, Morgan Stanley, JP Morgan Tapped for Klook IPO",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/market-chatter-goldman-sachs-morgan-103308703.html",
+      "sentiment": 1
+    }
   ]
 }

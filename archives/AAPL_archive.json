@@ -172,5 +172,51 @@
       "url": "https://finance.yahoo.com/m/87e9a15a-a373-3ec8-8b49-ad681055b824/apple%27s-robot-plans.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-19": [
+    {
+      "title": "Apple Adds Blood Oxygen to Watch: Will Wearables' Top Line Rise?",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/apple-adds-blood-oxygen-watch-161800018.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Market Chatter: Apple Expands iPhone 17 Production in India for the US Market",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/market-chatter-apple-expands-iphone-094052408.html",
+      "sentiment": 1
+    },
+    {
+      "title": "An Apple robot will need a lot of AI help",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/news/an-apple-robot-will-need-a-lot-of-ai-help-135116585.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Apple to Manufacture Full US-Bound iPhone 17 Lineup in India, Report Says",
+      "date": "2025-08-19",
+      "url": "https://finance.yahoo.com/m/cc91652c-772a-3847-a729-398c2a1dfd0f/apple-to-manufacture-full.html",
+      "sentiment": -1
+    }
+  ],
+  "2025-08-18": [
+    {
+      "title": "AAPL Stock Warning: If Apple Wants to Survive the AI War, It Must Do These 3 Things",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/m/b54f15eb-5b26-362f-9318-e435a0238c9a/aapl-stock-warning%3A-if-apple.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Why Morgan Stanley Thinks Apple (AAPL) Shares Could Be Turning the Corner",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/why-morgan-stanley-thinks-apple-151843058.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Here is What to Know Beyond Why Apple Inc. (AAPL) is a Trending Stock",
+      "date": "2025-08-18",
+      "url": "https://finance.yahoo.com/news/know-beyond-why-apple-inc-130003332.html",
+      "sentiment": 2
+    }
   ]
 }
