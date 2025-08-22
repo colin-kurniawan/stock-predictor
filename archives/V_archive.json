@@ -98,5 +98,19 @@
       "url": "https://finance.yahoo.com/news/kbw-keeps-outperform-rating-visa-031445301.html",
       "sentiment": 5
     }
+  ],
+  "2025-08-20": [
+    {
+      "title": "Market Chatter: Visa to Face New Debit Card Monopoly Lawsuit, Judge Rules",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/market-chatter-visa-face-debit-220437740.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Visa's ALM Integrated to Aid Lithic in Real-Time Premium Card Enrollment",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/visas-alm-integrated-aid-lithic-170800509.html",
+      "sentiment": 1
+    }
   ]
 }

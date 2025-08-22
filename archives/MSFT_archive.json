@@ -90,5 +90,83 @@
       "url": "https://finance.yahoo.com/news/microsofts-azure-boom-lifts-cloud-155400211.html",
       "sentiment": 2
     }
+  ],
+  "2025-08-20": [
+    {
+      "title": "Microsoft (MSFT) Stock: Truist Raises Price Target to $675, Reiterates Buy",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/microsoft-msft-stock-truist-raises-225839978.html",
+      "sentiment": 12
+    },
+    {
+      "title": "Microsoft Move to Standardize EA Pricing Seen Raising Costs, UBS Says",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/microsoft-move-standardize-ea-pricing-155238025.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Market Chatter: Microsoft Curtails Chinese Firms' Early Access to Cyber Risk Notifications",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/market-chatter-microsoft-curtails-chinese-151815523.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Microsoft, NFL Enter Multiyear AI Partnership",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/microsoft-nfl-enter-multiyear-ai-140413389.html",
+      "sentiment": 1
+    },
+    {
+      "title": "--Microsoft Curtails Chinese Firms' Early Access to Cyber Risk Notifications, Bloomberg Reports",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/microsoft-curtails-chinese-firms-apos-151435126.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Here\u2019s What Sent Microsoft Corporation (MSFT) Higher",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/sent-microsoft-corporation-msft-higher-122518980.html",
+      "sentiment": 3
+    }
+  ],
+  "2025-08-21": [
+    {
+      "title": "Microsoft (MSFT) Partners With NFL To Revolutionize Game Day With AI Innovations",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/microsoft-msft-partners-nfl-revolutionize-173151437.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Market Chatter: Microsoft Employees, Supporters Arrested on Second Day of Protests Over Israel Ties",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/market-chatter-microsoft-employees-supporters-110746521.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Phillip Securities Lifts PT on Microsoft Corporation (MSFT) From $480 to $550, Keeps a Buy Rating",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/phillip-securities-lifts-pt-microsoft-035301540.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Microsoft's AI Hits The NFL Sidelines",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/microsofts-ai-hits-nfl-sidelines-214848717.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Microsoft Locks Out Chinese Partners From Cybersecurity Program",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/microsoft-locks-chinese-partners-cybersecurity-195414098.html",
+      "sentiment": -1
+    }
+  ],
+  "2025-08-22": [
+    {
+      "title": "Microsoft AI Chief Warns Society Isn\u2019t Ready for 'Conscious' Machines",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/m/d1b6110b-3276-32ac-bb2a-10a7e80af62d/microsoft-ai-chief-warns.html",
+      "sentiment": 1
+    }
   ]
 }

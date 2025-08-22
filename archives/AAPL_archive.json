@@ -218,5 +218,63 @@
       "url": "https://finance.yahoo.com/news/know-beyond-why-apple-inc-130003332.html",
       "sentiment": 2
     }
+  ],
+  "2025-08-20": [
+    {
+      "title": "Bank of America Reiterates Buy on Apple (AAPL), Citing Services as Key Growth Driver",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/bank-america-reiterates-buy-apple-225341315.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Market Chatter: Apple iPhone, Foreign-Branded Phones Record June Sales Drop in China",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/market-chatter-apple-iphone-foreign-183839261.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Jim Cramer Says Reports Of Apple Inc. (AAPL)\u2019s \u201cDeath\u201d Are Overblown",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/jim-cramer-says-reports-apple-171422279.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Google Is Beating Apple on Smartphone AI",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/m/7673c284-1646-37cf-9b76-e3cc90e730af/google-is-beating-apple-on.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-21": [
+    {
+      "title": "Apple Supplier BIEL Crystal Unveils \"Witch Cloak\" Ultra-Hard Coating Smartphone Glass Cover",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/apple-supplier-biel-crystal-unveils-010400459.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Apple TV+ Reportedly Raising Price 30% to $12.99 a Month",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/apple-tv-reportedly-raising-price-143423076.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Apple TV+ raises price: How it compares to other streamers",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/video/apple-tv-raises-price-compares-205151016.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Apple to Open Official Retail Store in Bengaluru, India, Next Month",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/apple-open-official-retail-store-095536575.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Apple boosts subscription price for TV+ to $12.99",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/apple-boosts-subscription-price-tv-164055415.html",
+      "sentiment": 0
+    }
   ]
 }

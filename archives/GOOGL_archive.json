@@ -104,5 +104,77 @@
       "url": "https://finance.yahoo.com/m/b9d9ac41-d983-3048-9b81-0497fd3fefc5/google-settles-youtube.html",
       "sentiment": -1
     }
+  ],
+  "2025-08-20": [
+    {
+      "title": "Alphabet\u2019s Google (GOOGL) Likely to Avoid Breakup, But Antitrust Remedies Could Hit Core Revenue",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/alphabet-google-googl-likely-avoid-225809362.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Google Launches Lineup of Pixel 10 Smartphones",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/google-launches-lineup-pixel-10-182745247.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Google unveils 4 new Pixel phones, a smartwatch, & new AI tools",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/video/google-unveils-4-pixel-phones-203528225.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Google unveils latest Pixel phones, including foldable Pixel 10 Pro Fold",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/google-unveils-latest-pixel-phones-including-foldable-pixel-10-pro-fold-160000352.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Google\u2019s latest smartphone AI is leaving Apple in the dust",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/googles-latest-smartphone-ai-is-leaving-apple-in-the-dust-160056479.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Google Settles YouTube Kids Privacy Case for $30 million",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/google-settles-youtube-kids-privacy-214033107.html",
+      "sentiment": -1
+    }
+  ],
+  "2025-08-21": [
+    {
+      "title": "Google Unveils Pixel 10 Lineup With AI Features, New Watch and Earbuds",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/m/2f279a0b-a736-3f7b-bf11-92d9a66d7376/google-unveils-pixel-10.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Google to Provide US Government With Suite of AI Services Under New Agreement",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/google-us-government-suite-ai-145211228.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Google Bets Big on AI With Pixel 10 Launch",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/m/9c70163f-3ed8-3c8d-a801-a059f7981ca0/google-bets-big-on-ai-with.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Update: Google to Provide US Government With Suite of AI Services Under New Agreement",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/google-us-government-suite-ai-150908573.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-08-22": [
+    {
+      "title": "Meta, Google Reportedly Sign $10 Billion AI Cloud Services Deal",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/m/f5d52dad-b669-30cc-a557-35b2f99ab75b/meta%2C-google-reportedly-sign.html",
+      "sentiment": 0
+    }
   ]
 }

@@ -124,5 +124,45 @@
       "url": "https://finance.yahoo.com/news/market-chatter-goldman-sachs-morgan-103308703.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-20": [
+    {
+      "title": "Market Chatter: JPMorgan, MUFG in Talks to Underwrite $22 Billion Loan to Build Texas Data Center",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/market-chatter-jpmorgan-mufg-talks-113708068.html",
+      "sentiment": 1
+    },
+    {
+      "title": "JPMorgan Chase Financial Company LLC Declares Quarterly Coupon on Alerian MLP Index ETN",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/jpmorgan-chase-financial-company-llc-201500583.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Update: Market Chatter: JPMorgan, MUFG in Talks to Underwrite $22 Billion Loan to Build Texas Data Center",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/market-chatter-jpmorgan-mufg-talks-135754493.html",
+      "sentiment": 1
+    },
+    {
+      "title": "JPMorgan and MUFG near $22bn data centre financing deal in Texas",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/jpmorgan-mufg-near-22bn-data-110006618.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-08-21": [
+    {
+      "title": "Is JPMorgan Chase & Co. (JPM) Outperforming Other Finance Stocks This Year?",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/jpmorgan-chase-co-jpm-outperforming-134003857.html",
+      "sentiment": 0
+    },
+    {
+      "title": "A Union Push at JPMorgan Reveals Tensions Inside America\u2019s Largest Bank",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/m/f9876d9f-edc2-38cf-9612-5549542b7520/a-union-push-at-jpmorgan.html",
+      "sentiment": 0
+    }
   ]
 }

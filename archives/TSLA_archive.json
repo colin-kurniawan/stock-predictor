@@ -204,5 +204,125 @@
       "url": "https://finance.yahoo.com/m/113b2fed-8455-3350-9194-a9c5325965ef/tesla-launches-six-seat-model.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-20": [
+    {
+      "title": "Tesla (TSLA) Expands Model Y Lineup in China Amid Intensifying EV Competition",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/tesla-tsla-expands-model-y-230339544.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Tesla (TSLA) Stock: Barclays Reiterates Equal Weight, Cites Robotaxi Permit Delays",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/tesla-tsla-stock-barclays-reiterates-225143430.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Tesla Model Y L Might Never Launch in the US, Musk Says",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/tesla-model-y-l-might-143039528.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla Launched A New Model Y But Musk Says It 'Might Not Ever' Come To U.S. For This Reason",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/m/b772f782-1b25-38f0-b860-12e44df77182/tesla-launched-a-new-model-y.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Market Chatter: Tesla CEO Elon Musk Holding Off on Launch of US Political Party",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/market-chatter-tesla-ceo-elon-100815337.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla's robotaxi business could be 'vaporware'",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/video/teslas-robotaxi-business-could-vaporware-163000536.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Why Tesla Stock Sank Today",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/m/fc62b9fa-9335-3add-b8e3-dc8ce2e84f62/why-tesla-stock-sank-today.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Tesla's six-seat Model Y variant may not be launched in US",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/teslas-six-seat-model-y-162312697.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Nvidia, Tesla Stocks on Tron: xStocks Expand After Hitting Trading Milestone",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/m/6f76afa9-7842-3614-8fde-4a40d3990c51/nvidia%2C-tesla-stocks-on-tron%3A.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Tesla shareholder group urges probe, \u2018appropriate remedial action\u2019 from Nasdaq over Elon Musk\u2019s $29 billion pay package",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/news/tesla-shareholder-group-urges-probe-183717619.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Tesla CEO Elon Musk Says Six-Seat Model Y Might Not Be Launched in U.S.",
+      "date": "2025-08-20",
+      "url": "https://finance.yahoo.com/m/72d16d38-0363-3c44-8269-ae5dfbc69ebf/tesla-ceo-elon-musk-says.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-21": [
+    {
+      "title": "TSLA: Tesla Shares Slip as NHTSA Opens Probe Into Crash Reporting Delays",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/tsla-tesla-shares-slip-nhtsa-214613701.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Market Chatter: Tesla Under NHTSA Investigation Over Crash Reports",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/market-chatter-tesla-under-nhtsa-142432652.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Update: Tesla Under NHTSA Probe Over Delays in Crash Reports",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/tesla-under-nhtsa-probe-over-150909402.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla's Optimus and AI Ambitions: Can Musk's Vision Deliver?",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/teslas-optimus-ai-ambitions-musks-133900245.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Market Chatter: Tesla Factory in Germany Evacuated Following Fire",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/market-chatter-tesla-factory-germany-110026914.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla faces NHTSA probe over delayed crash reporting",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/tesla-faces-nhtsa-probe-over-135143664.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Two Months Into Tesla's Robotaxi Launch: Where Does It Stand Now?",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/two-months-teslas-robotaxi-launch-121700739.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-08-22": [
+    {
+      "title": "Tesla raises price of fastest Cybertruck by $15,000 in US",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/tesla-raises-price-cybertruck-cyberbeast-044853629.html",
+      "sentiment": 0
+    }
   ]
 }

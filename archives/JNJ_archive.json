@@ -22,5 +22,37 @@
       "url": "https://finance.yahoo.com/news/johnson-johnson-insider-sold-shares-072828763.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-21": [
+    {
+      "title": "Johnson & Johnson Shares Rally as Pharma Giant Invests $2 Billion in U.S. Expansion",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-shares-rally-pharma-184916405.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Johnson & Johnson to Invest $2 Billion in North Carolina Facility",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-invest-2-billion-103506679.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Citigroup Adjusts Price Target on Johnson & Johnson to $200 From $185, Maintains Buy Rating",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/citigroup-adjusts-price-target-johnson-095051404.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Johnson & Johnson, WH Smith, and Disney: Trending stocks",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/video/johnson-johnson-wh-smiths-disney-122113999.html",
+      "sentiment": -2
+    },
+    {
+      "title": "J&J to invest $2 billion to boost US manufacturing as drug tariffs loom",
+      "date": "2025-08-21",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-invest-2-billion-091136627.html",
+      "sentiment": 0
+    }
   ]
 }
