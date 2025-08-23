@@ -164,5 +164,39 @@
       "url": "https://finance.yahoo.com/m/f9876d9f-edc2-38cf-9612-5549542b7520/a-union-push-at-jpmorgan.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-23": [
+    {
+      "title": "JPMorgan (JPM) and MUFG Eye $22B Loan for Texas AI-Driven Data Hub",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/news/jpmorgan-jpm-mufg-eye-22b-035708165.html",
+      "sentiment": 2
+    }
+  ],
+  "2025-08-22": [
+    {
+      "title": "Why JPMorgan Chase & Co. (JPM) Outpaced the Stock Market Today",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/why-jpmorgan-chase-co-jpm-214501503.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Market Chatter: JPMorgan, Other Banks Lobby Regulator for National Standards That Override State Rules",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/market-chatter-jpmorgan-other-banks-120229307.html",
+      "sentiment": 1
+    },
+    {
+      "title": "JPMorgan Chase to Reportedly Pay $330 Million to Settle Claims Over 1Malaysia Development Berhad",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/jpmorgan-chase-reportedly-pay-330-110255608.html",
+      "sentiment": 1
+    },
+    {
+      "title": "JPMorgan to Pay $330 Million Over 1MDB Transactions",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/m/3f5dbfab-d9b3-35c0-ab58-6e0bccf4c22c/jpmorgan-to-pay-%24330-million.html",
+      "sentiment": 0
+    }
   ]
 }

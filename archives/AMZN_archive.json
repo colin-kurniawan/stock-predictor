@@ -352,5 +352,33 @@
       "url": "https://finance.yahoo.com/news/amazon-ditches-custom-os-android-215709593.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-23": [
+    {
+      "title": "Amazon.com (AMZN) Ends Support for Appstore in Android and Coins Program",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/news/amazon-com-amzn-ends-support-035700266.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Amazon (AMZN) Stock Gets $280 Target on Project Kuiper Momentum",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/news/amazon-amzn-stock-gets-280-005600619.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Guggenheim Shrugs Amazon Threat Lifts Walmart (WMT) Price Target",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/news/guggenheim-shrugs-amazon-threat-lifts-035712488.html",
+      "sentiment": 5
+    }
+  ],
+  "2025-08-22": [
+    {
+      "title": "Amazon.com (AMZN) Partners With West Loop Strategy To Modernize Business Intelligence",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/amazon-com-amzn-partners-west-172436975.html",
+      "sentiment": 4
+    }
   ]
 }

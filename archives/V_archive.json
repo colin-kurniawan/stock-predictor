@@ -112,5 +112,37 @@
       "url": "https://finance.yahoo.com/news/visas-alm-integrated-aid-lithic-170800509.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-22": [
+    {
+      "title": "Visa's Cross-Border Volumes on the Rise: Can the Upswing Last?",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/visas-cross-border-volumes-rise-171600719.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Visa closes US open-banking unit as data fight heats up, source says",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/visa-shutters-us-open-banking-155047701.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Market Chatter: Visa Shutters Open-Banking Business in US",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/market-chatter-visa-shutters-open-144018626.html",
+      "sentiment": 1
+    },
+    {
+      "title": "3 Must-Know Facts About Visa Before You Buy the Stock",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/m/7e80f8c6-4a77-3e6b-b8f9-d17236862a94/3-must-know-facts-about-visa.html",
+      "sentiment": 5
+    },
+    {
+      "title": "3 Reasons Investors Love Visa (V)",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/3-reasons-investors-love-visa-040316139.html",
+      "sentiment": 9
+    }
   ]
 }

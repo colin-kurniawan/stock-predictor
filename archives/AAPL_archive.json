@@ -276,5 +276,57 @@
       "url": "https://finance.yahoo.com/news/apple-boosts-subscription-price-tv-164055415.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-23": [
+    {
+      "title": "Apple (AAPL) off the Hook on Britain\u2019s iPhone \u2018Backdoor\u2019 Push",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/news/apple-aapl-off-hook-britain-035658393.html",
+      "sentiment": 2
+    }
+  ],
+  "2025-08-22": [
+    {
+      "title": "Market Chatter: Apple Sues Ex-Employee for Allegedly Sharing Trade Secrets With Chinese Rival Oppo",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/market-chatter-apple-sues-ex-193500090.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Market Chatter: Apple Weighs Using Google Gemini AI for Updated Siri",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/market-chatter-apple-weighs-using-171813116.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Dell Technologies vs. Apple: Which PC Maker Stock is a Better Buy?",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/dell-technologies-vs-apple-pc-171700330.html",
+      "sentiment": 14
+    },
+    {
+      "title": "Apple reportedly wants Google\u2019s Gemini to power new Siri",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/apple-reportedly-wants-google-gemini-175419728.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Ethereum, Gap, Apple: Trending tickers",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/video/ethereum-gap-apple-trending-tickers-193803093.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Apple's latest security update directly hits crypto users",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/m/c701439f-c4e5-356c-baf2-dfe9b66752ed/apple%27s-latest-security.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Apple Explores Using Google Gemini AI to Power Siri",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/video/apple-explores-using-google-gemini-221752330.html",
+      "sentiment": 0
+    }
   ]
 }

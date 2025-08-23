@@ -167,6 +167,18 @@
       "date": "2025-08-22",
       "url": "https://finance.yahoo.com/m/d1b6110b-3276-32ac-bb2a-10a7e80af62d/microsoft-ai-chief-warns.html",
       "sentiment": 1
+    },
+    {
+      "title": "Hundreds Of Microsoft Employees Just Revealed Their Pay \u2014 From $111K To $340K \u2014 As Company Fights To Keep AI Talent From Meta",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/hundreds-microsoft-employees-just-revealed-183103012.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Microsoft-Backed OpenAI Plans India Office",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/microsoft-backed-openai-plans-india-080939116.html",
+      "sentiment": 1
     }
   ]
 }

@@ -323,6 +323,56 @@
       "date": "2025-08-22",
       "url": "https://finance.yahoo.com/news/tesla-raises-price-cybertruck-cyberbeast-044853629.html",
       "sentiment": 0
+    },
+    {
+      "title": "Why Is Tesla (TSLA) Stock Rocketing Higher Today",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/why-tesla-tsla-stock-rocketing-193042866.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Why Is Tesla (TSLA) Up 4.9% Since Last Earnings Report?",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/why-tesla-tsla-4-9-153015724.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Stocks to Watch Recap: Tesla, Carnival, Intuit, Nvidia",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/m/bc0e5c8b-0d55-3427-9999-8207fbeb2e01/stocks-to-watch-recap%3A-tesla%2C.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Market Chatter: Tesla to Launch In-Car Voice Assistant in China Powered by Bytedance's Doubao and Deepseek AI",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/market-chatter-tesla-launch-car-094318842.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla Raises Price of Top Cybertruck Model in US",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/tesla-raises-price-top-cybertruck-105020199.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla Leads Mega-Cap Tech Stock Rally After Powell Points to Possible Rate Cut",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/m/89dd7eb0-cce7-3042-82db-3a26c8e1469a/tesla-leads-mega-cap-tech.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Tesla Stock Soars. Interest Rates Are What Really Matter.",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/m/718e0130-63e3-32ce-ad7a-c63611b68aa6/tesla-stock-soars.-interest.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-23": [
+    {
+      "title": "Tesla (TSLA) Robotaxi Demo Wows Analysts Ahead of September Launch",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/news/tesla-tsla-robotaxi-demo-wows-010552738.html",
+      "sentiment": 0
     }
   ]
 }

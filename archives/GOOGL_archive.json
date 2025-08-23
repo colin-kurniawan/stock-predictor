@@ -175,6 +175,18 @@
       "date": "2025-08-22",
       "url": "https://finance.yahoo.com/m/f5d52dad-b669-30cc-a557-35b2f99ab75b/meta%2C-google-reportedly-sign.html",
       "sentiment": 0
+    },
+    {
+      "title": "Market Chatter: OpenAI Using Google Search Results for ChatGPT Responses",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/market-chatter-openai-using-google-133727509.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Google, Meta, BJ's Wholesale, Zoom: Trending Tickers",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/video/google-meta-bjs-wholesale-zoom-132814160.html",
+      "sentiment": 2
     }
   ]
 }

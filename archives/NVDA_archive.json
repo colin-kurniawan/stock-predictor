@@ -427,6 +427,110 @@
       "date": "2025-08-22",
       "url": "https://finance.yahoo.com/news/nvidia-orders-halt-h20-chip-001843935.html",
       "sentiment": 0
+    },
+    {
+      "title": "NVDA: Should You Buy Nvidia Stock Before Aug. 27 Earnings Report?",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/nvda-buy-nvidia-stock-aug-192124545.html",
+      "sentiment": 5
+    },
+    {
+      "title": "NVIDIA Likely to Beat Q2 Earnings Estimate: How to Play the Stock?",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/nvidia-likely-beat-q2-earnings-135200777.html",
+      "sentiment": 7
+    },
+    {
+      "title": "Nvidia Earnings Loom: Analyzing the Current Earnings Picture",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/nvidia-earnings-loom-analyzing-current-221200762.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Unlocking Q2 Potential of Nvidia (NVDA): Exploring Wall Street Estimates for Key Metrics",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/unlocking-q2-potential-nvidia-nvda-131504860.html",
+      "sentiment": 2
+    },
+    {
+      "title": "NVIDIA's Data Center Grows Fast: Can It Sustain the Momentum?",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/nvidias-data-center-grows-fast-135300737.html",
+      "sentiment": 8
+    },
+    {
+      "title": "Nvidia earnings, new home sales data, July PCE: What to Watch",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/video/nvidia-earnings-home-sales-data-230000916.html",
+      "sentiment": 1
+    },
+    {
+      "title": "NVIDIA to Post Q2 Earnings: Buy, Hold, or Take Profits?",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/nvidia-post-q2-earnings-buy-190000368.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Nvidia Reportedly Orders Suppliers to Halt Production on H20 Chips",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/nvidia-reportedly-orders-suppliers-halt-094224141.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Top Analyst Reports for NVIDIA, Cisco & Linde",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/top-analyst-reports-nvidia-cisco-202700017.html",
+      "sentiment": 18
+    },
+    {
+      "title": "Nvidia's China Trouble Could Slash Billions From Revenue, Analysts Warn",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/nvidias-china-trouble-could-slash-115501006.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-23": [
+    {
+      "title": "Oppenheimer Maintains Outperform on Nvidia (NVDA) as Hyperscaler Capex Accelerates",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/news/oppenheimer-maintains-outperform-nvidia-nvda-043834274.html",
+      "sentiment": 6
+    },
+    {
+      "title": "Deutsche Bank Reiterates Hold on NVIDIA With $155 Price Target",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/news/deutsche-bank-reiterates-hold-nvidia-015310839.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Why Analysts Say NVIDIA Remains the Best AI Play",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/news/why-analysts-nvidia-remains-best-010101372.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Nvidia's Earnings Could Make Or Break Momentum ETFs",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/news/nvidias-earnings-could-break-momentum-033106874.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Nvidia has a China problem \u2014 nobody knows how big it really is",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/m/a764579b-b882-36c1-946d-a7f562db4954/nvidia-has-a-china-problem-%E2%80%94.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Nvidia\u2019s Roller Coaster for China AI Chips Takes a New Turn",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/m/4e72aa8a-9e4e-3dce-a9d6-abe184865fa0/nvidia%E2%80%99s-roller-coaster-for.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Dow Jones Futures: Nvidia Earnings Are Next Test After Powell-Led Stock Market Rally",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/m/d7240ab8-8d40-3d7a-888f-33564f058d7f/dow-jones-futures%3A-nvidia.html",
+      "sentiment": 1
     }
   ]
 }

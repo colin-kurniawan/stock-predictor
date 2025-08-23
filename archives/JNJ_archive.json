@@ -54,5 +54,19 @@
       "url": "https://finance.yahoo.com/news/johnson-johnson-invest-2-billion-091136627.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-22": [
+    {
+      "title": "Why Johnson & Johnson (JNJ) is a Great Dividend Stock Right Now",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/why-johnson-johnson-jnj-great-154502458.html",
+      "sentiment": 7
+    },
+    {
+      "title": "DBS Bank Adjusts Johnson & Johnson Price Target to $180 From $160",
+      "date": "2025-08-22",
+      "url": "https://finance.yahoo.com/news/dbs-bank-adjusts-johnson-johnson-123220165.html",
+      "sentiment": 1
+    }
   ]
 }
