@@ -68,5 +68,13 @@
       "url": "https://finance.yahoo.com/news/dbs-bank-adjusts-johnson-johnson-123220165.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-24": [
+    {
+      "title": "Johnson & Johnson (JNJ) Becomes Sector Gamma AS\u2019s 6th-Largest Holding",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-jnj-becomes-sector-052252781.html",
+      "sentiment": 2
+    }
   ]
 }

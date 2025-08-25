@@ -328,5 +328,13 @@
       "url": "https://finance.yahoo.com/video/apple-explores-using-google-gemini-221752330.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-24": [
+    {
+      "title": "No Base iPhone in 2026 as Apple Bets Big on Foldable Launch",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/news/no-iphone-2026-apple-bets-052224507.html",
+      "sentiment": 3
+    }
   ]
 }

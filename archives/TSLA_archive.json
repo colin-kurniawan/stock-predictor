@@ -374,5 +374,33 @@
       "url": "https://finance.yahoo.com/news/tesla-tsla-robotaxi-demo-wows-010552738.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-24": [
+    {
+      "title": "FCG Investment Co Lifts Tesla, Inc. (TSLA) Stake by 547%",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/news/fcg-investment-co-lifts-tesla-052138858.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Will Tesla's Bet on Bigger Vehicles in China Pay Off?",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/m/0e5836c4-9ac8-3601-a21e-224394c8a145/will-tesla%27s-bet-on-bigger.html",
+      "sentiment": -4
+    }
+  ],
+  "2025-08-25": [
+    {
+      "title": "Tesla (TSLA) Offers 40% Leasing Discounts to Bolster Europe Sales",
+      "date": "2025-08-25",
+      "url": "https://finance.yahoo.com/news/tesla-tsla-offers-40-leasing-042117262.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Could Buying Tesla Stock Today Set You Up for Life?",
+      "date": "2025-08-25",
+      "url": "https://finance.yahoo.com/m/0c77b317-d86b-3bb7-a0d7-f40d75793f40/could-buying-tesla-stock.html",
+      "sentiment": 1
+    }
   ]
 }

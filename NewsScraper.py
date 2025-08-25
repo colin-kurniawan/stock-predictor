@@ -5,6 +5,7 @@ import os
 from newspaper import Article
 from bs4 import BeautifulSoup
 from NewsArchive import NewsArchive
+from datetime import datetime, timezone
 
 class NewsScraper: 
     def __init__(self, company_name): 
@@ -85,7 +86,11 @@ class NewsScraper:
 
         for time_tag in soup.find_all("time"): 
             full_date = time_tag.get("datetime")
-            year_month_day = full_date.split("T")[0]
+            if full_date == None:
+                now = datetime.now(timezone.utc)
+                year_month_day = now.strftime("%Y-%m-%dT%H:%M:%S.000Z")
+            else:
+                year_month_day = full_date.split("T")[0]
         return year_month_day
                    
 if __name__ == "__main__":

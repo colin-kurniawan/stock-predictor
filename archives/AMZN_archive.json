@@ -380,5 +380,25 @@
       "url": "https://finance.yahoo.com/news/amazon-com-amzn-partners-west-172436975.html",
       "sentiment": 4
     }
+  ],
+  "2025-08-24": [
+    {
+      "title": "Amazon AI Chip Executive Joins Arm to Build Complete Chips",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/news/amazon-ai-chip-executive-joins-051946956.html",
+      "sentiment": 1
+    },
+    {
+      "title": "1 Reason to Buy Amazon (AMZN) Stock",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/m/983b3073-e3b0-3a9a-aa7f-16dddca0c2cb/1-reason-to-buy-amazon-%28amzn%29.html",
+      "sentiment": 6
+    },
+    {
+      "title": "Think Amazon Is Expensive? This 1 Chart Might Change Your Mind.",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/m/57183878-5c23-396d-9630-47dd87d6cf41/think-amazon-is-expensive%3F.html",
+      "sentiment": 9
+    }
   ]
 }

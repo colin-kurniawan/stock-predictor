@@ -180,5 +180,13 @@
       "url": "https://finance.yahoo.com/news/microsoft-backed-openai-plans-india-080939116.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-24": [
+    {
+      "title": "Microsoft Corporation (MSFT) Sees Nearly 29% Upside as Truist Lifts Target",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-sees-nearly-052057738.html",
+      "sentiment": 5
+    }
   ]
 }

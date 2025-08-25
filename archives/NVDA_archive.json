@@ -531,6 +531,72 @@
       "date": "2025-08-23",
       "url": "https://finance.yahoo.com/m/d7240ab8-8d40-3d7a-888f-33564f058d7f/dow-jones-futures%3A-nvidia.html",
       "sentiment": 1
+    },
+    {
+      "title": "NVIDIA (NVDA) Unveils Spectrum-XGS Ethernet To Revolutionize AI Super-Factories",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-unveils-spectrum-xgs-172211678.html",
+      "sentiment": 6
+    }
+  ],
+  "2025-08-24": [
+    {
+      "title": "Dow Jones Futures: Nvidia Is Next Big Market Test After Powell-Led Rally",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/m/d7240ab8-8d40-3d7a-888f-33564f058d7f/dow-jones-futures%3A-nvidia-is.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Nvidia, Alibaba, CrowdStrike, Snowflake, Inflation, and More to Watch This Week",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/m/3eabe6cd-d96b-3aa5-a522-473becbef8ce/nvidia%2C-alibaba%2C-crowdstrike%2C.html",
+      "sentiment": 0
+    },
+    {
+      "title": "What to watch in Nvidia earnings: China, H20, chip sales, outlook",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/video/watch-nvidia-earnings-china-h20-120024858.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Nvidia will deliver key earnings report this week",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/m/ab093c16-169f-3d86-b997-71db63d5740f/nvidia-will-deliver-key.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Nvidia earnings set to test AI trade with stocks near record highs: What to watch this week",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/news/nvidia-earnings-set-to-test-ai-trade-with-stocks-near-record-highs-what-to-watch-this-week-115512665.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Should You Buy Nvidia Stock Before Aug. 27? History Provides a Clear and Compelling Answer.",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/m/1471c274-4e20-32e2-945a-9cfe1ea3bf5e/should-you-buy-nvidia-stock.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Dow eyes fresh highs as Nvidia gets set to report earnings amid AI bubble fears",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/news/dow-eyes-fresh-highs-nvidia-221810203.html",
+      "sentiment": -1
+    }
+  ],
+  "2025-08-25": [
+    {
+      "title": "Nvidia Earnings: Traders Hope Chip Firm Can Soothe Fears",
+      "date": "2025-08-25",
+      "url": "https://finance.yahoo.com/video/nvidia-earnings-traders-hope-chip-050240586.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-25T05:59:29.000Z": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide after record surge with Nvidia earnings in focus",
+      "date": "2025-08-25T05:59:29.000Z",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-after-record-surge-with-nvidia-earnings-in-focus-235831166.html",
+      "sentiment": 0
     }
   ]
 }

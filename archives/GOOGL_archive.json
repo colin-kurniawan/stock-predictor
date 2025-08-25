@@ -188,5 +188,13 @@
       "url": "https://finance.yahoo.com/video/google-meta-bjs-wholesale-zoom-132814160.html",
       "sentiment": 2
     }
+  ],
+  "2025-08-24": [
+    {
+      "title": "Google Penalized for Anti-Competitive Android Deals with Telecoms",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/news/google-penalized-anti-competitive-android-052053983.html",
+      "sentiment": 1
+    }
   ]
 }

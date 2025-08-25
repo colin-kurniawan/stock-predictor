@@ -615,6 +615,32 @@
       "date": "2025-08-23",
       "url": "https://finance.yahoo.com/news/meta-platforms-meta-plotting-futuristic-035704287.html",
       "sentiment": 1
+    },
+    {
+      "title": "Meta is licensing Midjourney's AI image and video tech",
+      "date": "2025-08-23",
+      "url": "https://finance.yahoo.com/m/8970f363-4a20-31e4-b09f-41fc90ebdc11/meta-is-licensing.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-24": [
+    {
+      "title": "Meta Platforms Stock Is Off Its Highs - Three Ways for Value Investors to Play META With Options",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/m/58a5716f-d7d5-3d50-b43d-320a3da728b2/meta-platforms-stock-is-off.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Former Meta exec Nick Clegg offers careful criticism of \u2018cloyingly conformist\u2019 Silicon Valley",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/news/former-meta-exec-nick-clegg-203256343.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta is sinking $10 billion into rural Louisiana to build the home of its wildest AI aspirations, setting the template for the nation\u2019s grid buildout",
+      "date": "2025-08-24",
+      "url": "https://finance.yahoo.com/news/meta-sinking-10-billion-rural-100000651.html",
+      "sentiment": 1
     }
   ]
 }
