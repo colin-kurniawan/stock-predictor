@@ -402,5 +402,43 @@
       "url": "https://finance.yahoo.com/m/0c77b317-d86b-3bb7-a0d7-f40d75793f40/could-buying-tesla-stock.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-26": [
+    {
+      "title": "TSLA: Tesla Stock Nears Breakout as China Sales Slide Weigh on Outlook",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/tsla-tesla-stock-nears-breakout-211415688.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Tesla (TSLA) Stock: Goldman Sachs Reiterates Neutral on Robotaxi Launch",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/tesla-tsla-stock-goldman-sachs-160720156.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Analyst Says Tesla (TSLA) Stock Alpha is \u2018Exponential\u2019 If Elon Musk Does This",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/analyst-says-tesla-tsla-stock-201223618.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla Rejected $60 Million Florida Crash Settlement Before Being Ordered to Pay $242.6 Million, Court Filing Shows",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/tesla-rejected-60-million-florida-083729706.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla Stock Rises. Be \u2018Cautious\u2019 After Gains.",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/860ee3b9-7354-39dd-a28f-039985090be8/tesla-stock-rises.-be.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla Stock Advances Above Buy Point But EV Business In China Is Still Under Pressure",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/7fc52bf0-71f3-3a84-aa0e-07c19c5ce3cc/tesla-stock-advances-above.html",
+      "sentiment": 0
+    }
   ]
 }

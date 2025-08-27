@@ -336,5 +336,57 @@
       "url": "https://finance.yahoo.com/news/no-iphone-2026-apple-bets-052224507.html",
       "sentiment": 3
     }
+  ],
+  "2025-08-27": [
+    {
+      "title": "Can Apple\u2019s (AAPL) AI Partnerships Revive Investor Sentiment?",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/apple-aapl-ai-partnerships-revive-035349828.html",
+      "sentiment": 4
+    }
+  ],
+  "2025-08-26": [
+    {
+      "title": "Analyst Explains Apple\u2019s (AAPL) \u2018Biggest Risk\u2019 \u2013 \u2018Siri is a Mess\u2019",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/analyst-explains-apple-aapl-biggest-201049273.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Apple Can No Longer Advertise Watch as 'CO2-Neutral' in Germany, Group Says",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/apple-no-longer-advertise-watch-123046379.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Apple expected to unveil new iPhone at Sept. 9 launch event",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/video/apple-expected-unveil-iphone-sept-200017795.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Can Strong Content Portfolio Drive Apple's Streaming Prospects?",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/strong-content-portfolio-drive-apples-171200576.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Apple product launch, Meta Super PAC, Trump & Cracker Barrel",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/video/apple-product-launch-meta-super-171043290.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Apple Promises 'Awe Dropping' Event Sept. 9",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/469d402b-ae91-3358-89da-f4f27e419f74/apple-promises-%27awe-dropping%27.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Apple-Google Likely Tie-Up for Siri Revamp Puts These ETFs in Focus",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/apple-google-likely-tie-siri-100000800.html",
+      "sentiment": 1
+    }
   ]
 }

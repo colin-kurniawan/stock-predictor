@@ -598,5 +598,99 @@
       "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-after-record-surge-with-nvidia-earnings-in-focus-235831166.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-27": [
+    {
+      "title": "KeyBanc Expects Nvidia (NVDA) to Post Strong Q2, Raises PT to $215",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/keybanc-expects-nvidia-nvda-post-035344102.html",
+      "sentiment": 5
+    },
+    {
+      "title": "UBS Lifts Price Target on NVIDIA (NVDA) to $205 Ahead of Earnings",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/ubs-lifts-price-target-nvidia-011447439.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Baird Maintains Outperform on Nvidia with Optimism Around GB200 and GB300",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/baird-maintains-outperform-nvidia-optimism-035339996.html",
+      "sentiment": -3
+    }
+  ],
+  "2025-08-26": [
+    {
+      "title": "NVIDIA (NVDA) Gains Momentum With New Robotics Partnerships & Increased GPU Deployments",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-gains-momentum-robotics-173051024.html",
+      "sentiment": 2
+    },
+    {
+      "title": "NVIDIA Corporation (NVDA)\u2019s Shares Gain 40% Since Jim Cramer Prediced \u201cPain\u201d Last Year",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-shares-gain-211505689.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Analyst Explains Why Nvidia (NVDA) Valuation Isn\u2019t \u2018As Streched as Everyone Would Argue\u2019",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/analyst-explains-why-nvidia-nvda-200752601.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Nvidia's Anticipated $8 Billion China Drag Puts Semiconductor ETFs On Alert Ahead Of Earnings",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/nvidias-anticipated-8-billion-china-184500273.html",
+      "sentiment": 1
+    },
+    {
+      "title": "This Nvidia Supplier Is Turning Up The Heat: Growth Metrics Spike As Stock Looks Set For A Breakout",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/nvidia-supplier-turning-heat-growth-233116171.html",
+      "sentiment": 9
+    },
+    {
+      "title": "Market Chatter: Nvidia Poised for $260 Billion Price Swing Following Quarterly Results, Options Data Indicates",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/market-chatter-nvidia-poised-260-132958751.html",
+      "sentiment": 1
+    },
+    {
+      "title": "How to trade options on Nvidia earnings",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/video/trade-options-nvidia-earnings-213030736.html",
+      "sentiment": -2
+    },
+    {
+      "title": "Nvidia earnings & comments from CEO Jensen Huang: What to Watch",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/video/nvidia-earnings-comments-ceo-jensen-230000459.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Nvidia nears record, rotation, gold flag: Market takeaways",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/video/nvidia-nears-record-rotation-gold-220000212.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Too Much Hype! Should You Sell NVIDIA Stock Ahead of Q2 Earnings?",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/too-much-hype-sell-nvidia-190000958.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Wedbush Says Nvidia Is Only in the Second Inning. What Does the Data Say About Buying NVDA Stock Here?",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/c6f73b16-5244-395d-acd3-6c18c1e3d1af/wedbush-says-nvidia-is-only.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Nvidia Could Raise Its Full-Year Outlook on August 27. Should You Buy NVDA Stock First?",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/158b18b1-d504-3a66-92bf-8cb8c6e1979b/nvidia-could-raise-its.html",
+      "sentiment": 6
+    }
   ]
 }

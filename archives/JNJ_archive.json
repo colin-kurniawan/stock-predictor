@@ -76,5 +76,27 @@
       "url": "https://finance.yahoo.com/news/johnson-johnson-jnj-becomes-sector-052252781.html",
       "sentiment": 2
     }
+  ],
+  "2025-08-27": [
+    {
+      "title": "Citi Lifts Johnson & Johnson (JNJ) Price Target to $200 on MedTech Strength",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/citi-lifts-johnson-johnson-jnj-035355659.html",
+      "sentiment": 5
+    }
+  ],
+  "2025-08-26": [
+    {
+      "title": "Johnson & Johnson to Invest $2 Billion in New North Carolina Facility",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-invest-2-billion-035551862.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Johnson & Johnson Insider Sold Shares Worth $22,548,655, According to a Recent SEC Filing",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-insider-sold-shares-072300385.html",
+      "sentiment": 1
+    }
   ]
 }

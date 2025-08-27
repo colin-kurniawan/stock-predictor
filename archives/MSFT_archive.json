@@ -188,5 +188,87 @@
       "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-sees-nearly-052057738.html",
       "sentiment": 5
     }
+  ],
+  "2025-08-27": [
+    {
+      "title": "UBS Maintains Buy on Microsoft (MSFT), Citing Confidence from Pricing Moves",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/ubs-maintains-buy-microsoft-msft-035342779.html",
+      "sentiment": 6
+    },
+    {
+      "title": "JPMorgan Reiterates Overweight on Microsoft (MSFT) After Azure Growth Acceleration",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/jpmorgan-reiterates-overweight-microsoft-msft-010500276.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Microsoft Investigating Employees After Gaza Protest Locks Down Building",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/m/8c8bad3e-974e-37d6-bedd-cd8eb3fddee4/microsoft-investigating.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Microsoft talks set to push OpenAI\u2019s restructure into next year",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/microsoft-talks-set-push-openai-040031630.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-08-26": [
+    {
+      "title": "Investors Heavily Search Microsoft Corporation (MSFT): Here is What You Need to Know",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/investors-heavily-search-microsoft-corporation-130003849.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Microsoft (MSFT) Settles Patent Lawsuit With Virtru Over Data Encryption Technology",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/microsoft-msft-settles-patent-lawsuit-172555104.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Microsoft Corporation (MSFT) Gains 21% Since Cramer Said Had \u201cNo Idea\u201d If There Was Any Weakness",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-gains-21-212248738.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Microsoft Is Bringing AI to the NFL. What Does This Mean for MSFT Stock?",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/f3d941bb-457b-3575-995f-06783f62f13a/microsoft-is-bringing-ai-to.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Market Chatter: Microsoft Sought FBI Help to Track Palestinian Protests",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/market-chatter-microsoft-sought-fbi-121334832.html",
+      "sentiment": 1
+    },
+    {
+      "title": "IonQ or Rigetti: Who Wins From Microsoft's Cloud Quantum Push?",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/ionq-rigetti-wins-microsofts-cloud-190000180.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Market Chatter: Microsoft's LinkedIn to Expand Video Advertising Program",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/market-chatter-microsoft-apos-linkedin-101908891.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Update: Market Chatter: Microsoft Sought FBI Help to Track Palestinian Protests",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/market-chatter-microsoft-sought-fbi-154810262.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Microsoft Corporation\u2019s (MSFT) AI Investment Gained Confidence Amid Operational Discipline",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-ai-investment-120637599.html",
+      "sentiment": 2
+    }
   ]
 }

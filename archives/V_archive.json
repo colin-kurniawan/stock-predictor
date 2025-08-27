@@ -144,5 +144,63 @@
       "url": "https://finance.yahoo.com/news/3-reasons-investors-love-visa-040316139.html",
       "sentiment": 9
     }
+  ],
+  "2025-08-26": [
+    {
+      "title": "Visa's Platform Expands Reach Via Powering Authvia's Text-Based Payouts",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/visas-platform-expands-reach-via-170400737.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Visa vs. AmEx: Who Can Better Weather a Spending Squeeze?",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/visa-vs-amex-better-weather-155800057.html",
+      "sentiment": 3
+    },
+    {
+      "title": "The fallout from Visa's U.S. open banking retreat",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/f54b4a10-4fa6-3ffd-9928-ca9b2227a3c5/the-fallout-from-visa%27s-u.s..html",
+      "sentiment": 0
+    },
+    {
+      "title": "Is Trending Stock Visa Inc. (V) a Buy Now?",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/trending-stock-visa-inc-v-130005381.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Competition from Stable Coins Impacted Visa\u2019s (V) Relative Returns",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/competition-stable-coins-impacted-visa-124600863.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Authvia integrates Visa Direct to offer real-time payments via TXT2PAY",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/92f3f4b0-d60a-399d-b402-c1ef056ae40f/authvia-integrates-visa.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-25": [
+    {
+      "title": "Visa to Participate in Upcoming Investor Conference",
+      "date": "2025-08-25",
+      "url": "https://finance.yahoo.com/news/visa-participate-upcoming-investor-conference-200500470.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Authvia Integrates Visa Direct to Enable Real-Time Payouts via Text and Messaging",
+      "date": "2025-08-25",
+      "url": "https://finance.yahoo.com/news/authvia-integrates-visa-direct-enable-130000292.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Visa halts open banking operations in US amid regulatory challenges",
+      "date": "2025-08-25",
+      "url": "https://finance.yahoo.com/m/aa205992-84c0-3d9e-bccc-70ec180a1763/visa-halts-open-banking.html",
+      "sentiment": 0
+    }
   ]
 }

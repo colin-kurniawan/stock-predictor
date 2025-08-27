@@ -400,5 +400,31 @@
       "url": "https://finance.yahoo.com/m/57183878-5c23-396d-9630-47dd87d6cf41/think-amazon-is-expensive%3F.html",
       "sentiment": 9
     }
+  ],
+  "2025-08-26": [
+    {
+      "title": "Amazon.com (AMZN) Partners to Expand Nuclear Reactor Tech and Launches New AI Guide",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/amazon-com-amzn-partners-expand-172354859.html",
+      "sentiment": 7
+    },
+    {
+      "title": "Jim Cramer Nailed Amazon.com, Inc. (AMZN)\u2019s Stock Back In August 2024",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/jim-cramer-nailed-amazon-com-211544222.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN) Is a Trending Stock: Facts to Know Before Betting on It",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-trending-130004886.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Analyst Explains Why He Likes Amazon (AMZN) Stock \u2013 \u2018Really Bullish on Where AWS is Going\u2019",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/analyst-explains-why-likes-amazon-200652639.html",
+      "sentiment": 2
+    }
   ]
 }

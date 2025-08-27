@@ -196,5 +196,19 @@
       "url": "https://finance.yahoo.com/news/google-penalized-anti-competitive-android-052053983.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-26": [
+    {
+      "title": "Google Launches New Live Translation, Language Learning Tools in Translate App",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/google-launches-live-translation-language-164253583.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Ex-Google CEO Eric Schmidt Buys $110M Beverly Hills Estate Once Owned By TV Mogul Aaron Spelling",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/ex-google-ceo-eric-schmidt-144602113.html",
+      "sentiment": 0
+    }
   ]
 }

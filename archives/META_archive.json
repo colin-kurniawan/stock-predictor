@@ -642,5 +642,111 @@
       "url": "https://finance.yahoo.com/news/meta-sinking-10-billion-rural-100000651.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-26": [
+    {
+      "title": "Meta to back pro-AI candidates in California",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/a51cfe99-ab8e-37c1-acf8-20d963f558cd/meta-to-back-pro-ai.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta to launch California super PAC backing pro-AI candidates",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/430fe043-8d34-3856-bd23-6575d27cbb8e/meta-to-launch-california.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta to spend tens of millions on pro-AI super PAC",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/meta-spend-tens-millions-pro-175939046.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Market Chatter: Meta to Spend $50 Billion on Louisiana Data Center, Trump Says",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/market-chatter-meta-spend-50-173804050.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Market Chatter: Meta Platforms to Launch California Super PAC to Back AI-Friendly Candidates",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/market-chatter-meta-platforms-launch-164759347.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Cantor Calls Meta (META) Its Favorite Megacap Stock, Reiterates $920 Price Target",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/cantor-calls-meta-meta-favorite-155842279.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Meta Platforms, Inc. (META)\u2019s Shares Have Gained A Modest 8% Since Jim Cramer Called A Seller \u201cChowderhead\u201d",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-shares-212435268.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta is launching a California super PAC",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/945fbd22-d3bb-35d4-83d7-afeef9bc2935/meta-is-launching-a.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta Updates Marketing API to Capitalize on Advantage+ Placements",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/68b3436d-f0a6-3e8f-94e9-5c7d9be18adb/meta-updates-marketing-api-to.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta's planned Louisiana AI data center to cost $50 billion, Trump says",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/metas-planned-louisiana-ai-data-200346590.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta\u2019s Louisiana Data Center to Cost $50 Billion, Trump Says",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/meta-louisiana-data-center-cost-172823593.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta Taps Midjourney to Make Its AI Prettier",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/meta-taps-midjourney-ai-prettier-164715777.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Update: Meta Platforms to Launch California Super PAC to Back AI-Friendly Candidates",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/meta-platforms-launch-california-super-172939002.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Apple product launch, Meta Super PAC, Trump & Cracker Barrel",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/video/apple-product-launch-meta-super-171043290.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-25": [
+    {
+      "title": "Meta Forms Partnership With Midjourney to License 'Aesthetic' Technology",
+      "date": "2025-08-25",
+      "url": "https://finance.yahoo.com/news/meta-forms-partnership-midjourney-license-101119410.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Meta forms partnership to license technology from Midjourney",
+      "date": "2025-08-25",
+      "url": "https://finance.yahoo.com/m/ee030b3e-7c6a-34c0-b378-0f73aef3cda5/meta-forms-partnership-to.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta Partners With Midjourney To Improve Visual Generation Elements",
+      "date": "2025-08-25",
+      "url": "https://finance.yahoo.com/m/2a3ed37c-f3a1-3845-8302-190f12034545/meta-partners-with-midjourney.html",
+      "sentiment": 2
+    }
   ]
 }

@@ -205,6 +205,52 @@
       "date": "2025-08-25",
       "url": "https://finance.yahoo.com/news/j-p-morgan-advises-playing-011910399.html",
       "sentiment": 8
+    },
+    {
+      "title": "JPMorgan Agrees to Pay $330M to Resolve 1MDB AML Allegations",
+      "date": "2025-08-25",
+      "url": "https://finance.yahoo.com/news/jpmorgan-agrees-pay-330m-resolve-121600506.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-08-27": [
+    {
+      "title": "JPMorgan\u2019s (JPM) Competitive Edge Continues to be Driven by Scale and Diversification",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/jpmorgan-jpm-competitive-edge-continues-035350215.html",
+      "sentiment": 4
+    }
+  ],
+  "2025-08-26": [
+    {
+      "title": "JPMorgan Chase (JPM) Appoints Jerry Lee As Global Chair Of Investment Banking",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/jpmorgan-chase-jpm-appoints-jerry-174331363.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Here is What to Know Beyond Why JPMorgan Chase & Co. (JPM) is a Trending Stock",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/know-beyond-why-jpmorgan-chase-130002422.html",
+      "sentiment": 2
+    },
+    {
+      "title": "JPMorgan's Liquidity Buffer: Paving the Way for Shareholder Rewards?",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/jpmorgans-liquidity-buffer-paving-way-134200131.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Morgan Stanley joins global peers with September Fed rate cut outlook as Powell shifts tone",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/news/morgan-stanley-expects-us-fed-055731514.html",
+      "sentiment": -4
+    },
+    {
+      "title": "JPMorgan, Already No. 1 in Card Spending, Wants Even More",
+      "date": "2025-08-26",
+      "url": "https://finance.yahoo.com/m/dc3ce50a-d58a-3d7c-a9e8-1f9e53f40939/jpmorgan%2C-already-no.-1-in.html",
+      "sentiment": 1
     }
   ]
 }
