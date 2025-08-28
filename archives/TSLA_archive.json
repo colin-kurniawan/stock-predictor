@@ -440,5 +440,51 @@
       "url": "https://finance.yahoo.com/m/7fc52bf0-71f3-3a84-aa0e-07c19c5ce3cc/tesla-stock-advances-above.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-27": [
+    {
+      "title": "Tesla Stock Keeps Climbing Despite All Its Woes: Should You Buy or Sell TSLA Here?",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/m/031246be-c33b-38b8-963e-c271aa660bfb/tesla-stock-keeps-climbing.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla Stock In Buy Zone As EV Giant Expands 'Robotaxi' Service. Then There's Nvidia.",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/m/0345d769-3240-3ef5-91ff-2466c843be8a/tesla-stock-in-buy-zone-as-ev.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla Model Y In Trouble In China? Sales Data Show Rival Quickly Taking Over",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/tesla-model-y-trouble-china-193101000.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Tesla Stock 'Could Fall 90% Tomorrow,' Fund Manager Still Won't Buy \u2014 Here's Where He's Investing Instead",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/tesla-stock-could-fall-90-104609333.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Tesla, Inc. (TSLA): A Bull Case Theory",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/tesla-inc-tsla-bull-case-091425933.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Don\u2019t Look Now, but Tesla Stock Is Ready for a Rip-Roaring Rally",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/m/eb72dd2c-17f4-3486-882c-fa1c1bf5adc0/don%E2%80%99t-look-now%2C-but-tesla.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-28": [
+    {
+      "title": "Tesla's AI Hype Is Doing the Heavy Lifting for the Stock, but It Won't Be Enough for Long",
+      "date": "2025-08-28",
+      "url": "https://finance.yahoo.com/m/5616f6aa-8028-3eaf-b25e-9a2e059ea387/tesla%27s-ai-hype-is-doing-the.html",
+      "sentiment": -2
+    }
   ]
 }

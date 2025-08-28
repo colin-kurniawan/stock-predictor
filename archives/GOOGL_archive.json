@@ -210,5 +210,33 @@
       "url": "https://finance.yahoo.com/news/ex-google-ceo-eric-schmidt-144602113.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-28": [
+    {
+      "title": "First Google, Now Microsoft: Tech Staff Are in Revolt Over Gaza",
+      "date": "2025-08-28",
+      "url": "https://finance.yahoo.com/m/a6d3b7c4-47da-3e02-9505-5a5f6fdccea2/first-google%2C-now-microsoft%3A.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-27": [
+    {
+      "title": "Google Adds AI to Translate for Real-Time Conversations",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/m/695b23cf-8956-3ddf-8d8b-9fa5911c708d/google-adds-ai-to-translate.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Google launches new device protection program called Pixel Care+",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/google-launches-device-protection-program-205952829.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Google to invest another $9 billion in AI infra in Virginia",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/google-invest-another-9-billion-204502528.html",
+      "sentiment": 0
+    }
   ]
 }

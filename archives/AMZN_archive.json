@@ -426,5 +426,55 @@
       "url": "https://finance.yahoo.com/news/analyst-explains-why-likes-amazon-200652639.html",
       "sentiment": 2
     }
+  ],
+  "2025-08-27": [
+    {
+      "title": "Amazon Reportedly Plans to Offer Corporate Staff Programs to Whole Foods Employees",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/amazon-reportedly-plans-offer-corporate-185428352.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Amazon-Backed Anthropic Says AI Tool Claude Code Used in Large-Scale Data Hacking Operation",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/amazon-backed-anthropic-says-ai-165844958.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Update: Amazon to Move Whole Foods Employees Under Same Benefits Banner as Rest of The Company",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/amazon-move-whole-foods-employees-195659445.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Amazon.com in Talks to Deploy Kuiper Initiative in Vietnam",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/amazon-com-talks-deploy-kuiper-111026229.html",
+      "sentiment": 1
+    },
+    {
+      "title": "TD Synnex Enters Agreement With Amazon Web Services to Drive AI Adoption",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/td-synnex-enters-agreement-amazon-170355233.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Amazon.com Launches New Program With Dubai Future Foundation",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/amazon-com-launches-program-dubai-121926198.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Domo Collaborating With Amazon Web Services on Agentic AI",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/domo-collaborating-amazon-services-agentic-132938818.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Amazon to extend corporate pay structure, benefits to Whole Foods employees",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/amazon-extend-corporate-pay-structure-141958657.html",
+      "sentiment": 0
+    }
   ]
 }

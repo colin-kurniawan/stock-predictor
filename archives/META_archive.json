@@ -748,5 +748,43 @@
       "url": "https://finance.yahoo.com/m/2a3ed37c-f3a1-3845-8302-190f12034545/meta-partners-with-midjourney.html",
       "sentiment": 2
     }
+  ],
+  "2025-08-27": [
+    {
+      "title": "Meta Shares Latest Data on Policy Enforcements and Content Trends",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/m/6af62890-c998-3e7f-afdf-51cf9e709fb9/meta-shares-latest-data-on.html",
+      "sentiment": -2
+    },
+    {
+      "title": "Meta says Taylor Swift and Travis Kelce post shatters Instagram records with engagement photos",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/m/1a4aba2f-e6a6-3766-b7f3-b4e52ef7bb41/meta-says-taylor-swift-and.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Meta Steps Into Politics With Big Bet on AI Policy",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/meta-steps-politics-big-bet-223413839.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Meta Platforms, Inc. (META): A Bull Case Theory",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-bull-091009934.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Judge denies Meta\u2019s request to dismiss sexual harassment lawsuit filed by early employee",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/judge-denies-meta-request-dismiss-182235196.html",
+      "sentiment": -5
+    },
+    {
+      "title": "Indonesia urges TikTok, Meta to act against harmful online content",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/m/c95e64fd-4a84-35d9-9177-139fd111568c/indonesia-urges-tiktok%2C-meta.html",
+      "sentiment": 0
+    }
   ]
 }

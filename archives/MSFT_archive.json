@@ -213,6 +213,42 @@
       "date": "2025-08-27",
       "url": "https://finance.yahoo.com/news/microsoft-talks-set-push-openai-040031630.html",
       "sentiment": 1
+    },
+    {
+      "title": "Microsoft (MSFT) Is Considered a Good Investment by Brokers: Is That True?",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/microsoft-msft-considered-good-investment-133002946.html",
+      "sentiment": 11
+    },
+    {
+      "title": "Microsoft Probes Protesting Employees Over Allegations Azure Was Used for Surveillance in Gaza",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/microsoft-probes-protesting-employees-over-120646273.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Microsoft Faces Protests Over Alleged Israeli Military Ties",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/microsoft-faces-protests-over-alleged-232330850.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Microsoft Corporation (MSFT): A Bull Case Theory",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-bull-case-091453110.html",
+      "sentiment": 9
+    },
+    {
+      "title": "Market Chatter: Microsoft Talks Likely to Delay OpenAI's Corporate Restructuring Into Next Year",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/market-chatter-microsoft-talks-likely-110536164.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Update: Market Chatter: Microsoft Talks Likely to Delay OpenAI's Corporate Restructuring Into Next Year",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/market-chatter-microsoft-talks-likely-162203076.html",
+      "sentiment": 1
     }
   ],
   "2025-08-26": [
@@ -269,6 +305,14 @@
       "date": "2025-08-26",
       "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-ai-investment-120637599.html",
       "sentiment": 2
+    }
+  ],
+  "2025-08-28": [
+    {
+      "title": "First Google, Now Microsoft: Tech Staff Are in Revolt Over Gaza",
+      "date": "2025-08-28",
+      "url": "https://finance.yahoo.com/m/a6d3b7c4-47da-3e02-9505-5a5f6fdccea2/first-google%2C-now-microsoft%3A.html",
+      "sentiment": 0
     }
   ]
 }

@@ -617,6 +617,102 @@
       "date": "2025-08-27",
       "url": "https://finance.yahoo.com/news/baird-maintains-outperform-nvidia-optimism-035339996.html",
       "sentiment": -3
+    },
+    {
+      "title": "NVDA: Nvidia Faces Earnings Test as Government Rules Out Investment",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/nvda-nvidia-faces-earnings-test-191955837.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Nvidia (NVDA) Tops Q2 Earnings and Revenue Estimates",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-tops-q2-earnings-214001871.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Nvidia (NVDA) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-q2-earnings-taking-220002300.html",
+      "sentiment": 0
+    },
+    {
+      "title": "No Surprises In Nvidia\u2019s (NASDAQ:NVDA) Q2 Sales Numbers But Inventory Levels Increase",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/no-surprises-nvidia-nasdaq-nvda-203112644.html",
+      "sentiment": 12
+    },
+    {
+      "title": "NVIDIA (NVDA) Stands Out as Cantor\u2019s Top AI Idea Amid Infrastructure Boom",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-stands-cantor-top-173226391.html",
+      "sentiment": 3
+    },
+    {
+      "title": "NVIDIA (NVDA) Expands AI Innovations With Galbot, Broadcom, And Industry Leaders",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-expands-ai-innovations-172504118.html",
+      "sentiment": 2
+    },
+    {
+      "title": "NVIDIA (NVDA) Targets Unified AI Data Centers With Spectrum-XGS",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-targets-unified-ai-162110520.html",
+      "sentiment": 0
+    },
+    {
+      "title": "NVIDIA (NVDA) Stock Target Raised as Earnings Loom",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-stock-target-raised-171046468.html",
+      "sentiment": 2
+    },
+    {
+      "title": "TD Cowen Maintains Buy on Nvidia (NVDA), Expects Strong Q2 Despite Uncertainty",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/td-cowen-maintains-buy-nvidia-161414780.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Nvidia Q2 Adjusted Earnings, Revenue Rise; Q3 Guidance Set",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/nvidia-q2-adjusted-earnings-revenue-203440390.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Nvidia earnings: CEO Jensen Huang talks data centers, Trump, & China",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/video/nvidia-earnings-ceo-jensen-huang-231717179.html",
+      "sentiment": 2
+    },
+    {
+      "title": "NVDA: Nvidia Earnings Ahead Lift Stock Futures Higher",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/nvda-nvidia-earnings-ahead-lift-121431479.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Nvidia Tops Second-Quarter Views Amid Rising Gen AI Demand",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/nvidia-tops-second-quarter-views-211101945.html",
+      "sentiment": 1
+    },
+    {
+      "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2026",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/nvidia-announces-financial-results-second-202000676.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Nvidia is 'really caught in the middle' of US\u2013China AI race",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/video/nvidia-really-caught-middle-us-220000849.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Nvidia (NVDA): Valuation Insights Following New AI Product Launches and Major Enterprise Partnerships",
+      "date": "2025-08-27",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-valuation-insights-following-102012980.html",
+      "sentiment": 2
     }
   ],
   "2025-08-26": [
@@ -691,6 +787,26 @@
       "date": "2025-08-26",
       "url": "https://finance.yahoo.com/m/158b18b1-d504-3a66-92bf-8cb8c6e1979b/nvidia-could-raise-its.html",
       "sentiment": 6
+    }
+  ],
+  "2025-08-28": [
+    {
+      "title": "Nvidia CEO: China sales would be a 'bonus' to already strong outlook",
+      "date": "2025-08-28",
+      "url": "https://finance.yahoo.com/video/nvidia-ceo-china-sales-bonus-000434048.html",
+      "sentiment": 0
+    },
+    {
+      "title": "NVIDIA Q2 Profit Soars 59% as Blackwell AI Surge Fuels Record Revenue",
+      "date": "2025-08-28",
+      "url": "https://finance.yahoo.com/news/nvidia-q2-profit-soars-59-021402431.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Dow Jones Futures: Nvidia Falls On Earnings, Leads Big Movers Late",
+      "date": "2025-08-28",
+      "url": "https://finance.yahoo.com/m/d607b159-bb17-3dbf-985f-0aa2b9530aa6/dow-jones-futures%3A-nvidia.html",
+      "sentiment": 0
     }
   ]
 }
