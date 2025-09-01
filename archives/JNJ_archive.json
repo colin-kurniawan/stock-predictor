@@ -98,5 +98,51 @@
       "url": "https://finance.yahoo.com/news/johnson-johnson-insider-sold-shares-072300385.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-30": [
+    {
+      "title": "Will Johnson & Johnson's (JNJ) $2 Billion U.S. Manufacturing Move Reshape Its R&D Ambitions?",
+      "date": "2025-08-30",
+      "url": "https://finance.yahoo.com/news/johnson-johnsons-jnj-2-billion-101503189.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-08-29": [
+    {
+      "title": "Johnson & Johnson (JNJ) Is a Trending Stock: Facts to Know Before Betting on It",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-jnj-trending-stock-130005509.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Johnson & Johnson Ends Rheumatoid Arthritis Drug Combo Program",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-ends-rheumatoid-arthritis-112148063.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Johnson & Johnson's Biosense Webster Unit Hit With Injunction for Antitrust Violations",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-apos-biosense-webster-120422265.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Johnson & Johnson to Stop Clinical Development of Nipocalimab Combination Therapy for Rheumatoid Arthritis",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-stop-clinical-development-114329508.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Johnson & Johnson Ends RA Combo After Mid-Stage Miss",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-ends-ra-combo-191210241.html",
+      "sentiment": 0
+    },
+    {
+      "title": "How Is Johnson & Johnson\u2019s Stock Performance Compared to Other Healthcare Stocks?",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/m/7c30df8d-ea24-3e8b-808e-e938aae1cf69/how-is-johnson-%26-johnson%E2%80%99s.html",
+      "sentiment": 2
+    }
   ]
 }

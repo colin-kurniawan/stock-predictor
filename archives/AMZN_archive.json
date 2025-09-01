@@ -476,5 +476,45 @@
       "url": "https://finance.yahoo.com/news/amazon-extend-corporate-pay-structure-141958657.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-31": [
+    {
+      "title": "Amazon (AMZN): Assessing Valuation After Recent Share Price Gains",
+      "date": "2025-08-31",
+      "url": "https://finance.yahoo.com/news/amazon-amzn-assessing-valuation-recent-100913334.html",
+      "sentiment": 4
+    }
+  ],
+  "2025-09-01": [
+    {
+      "title": "Amazon Launches Infrastructure Region in New Zealand",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/amazon-launches-infrastructure-region-zealand-220100078.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Alibaba vs. Amazon: Which E-Commerce Titan Has More Upside Potential?",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/alibaba-vs-amazon-e-commerce-153500366.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Amazon\u2019s bombshell move triggers a high-stakes AI turf war",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/m/5dfb8980-c58e-3ad4-8868-d2d1dbf308aa/amazon%E2%80%99s-bombshell-move.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Beyond Market Price: Uncovering Amazon.com Inc's Intrinsic Value",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/beyond-market-price-uncovering-amazon-120145443.html",
+      "sentiment": 14
+    },
+    {
+      "title": "Here's How Much a $1000 Investment in Amazon Made 10 Years Ago Would Be Worth Today",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/heres-much-1000-investment-amazon-123001527.html",
+      "sentiment": -2
+    }
   ]
 }

@@ -314,5 +314,19 @@
       "url": "https://finance.yahoo.com/m/a6d3b7c4-47da-3e02-9505-5a5f6fdccea2/first-google%2C-now-microsoft%3A.html",
       "sentiment": 0
     }
+  ],
+  "2025-09-01": [
+    {
+      "title": "Microsoft (MSFT) Unveils In-House AI Models MAI-Voice-1 And MAI-1 Preview",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/microsoft-msft-unveils-house-ai-171225469.html",
+      "sentiment": 8
+    },
+    {
+      "title": "Microsoft Corp: An Exploration into Its Intrinsic Value",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/microsoft-corp-exploration-intrinsic-value-120134931.html",
+      "sentiment": 14
+    }
   ]
 }

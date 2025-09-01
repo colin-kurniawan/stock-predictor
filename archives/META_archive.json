@@ -786,5 +786,121 @@
       "url": "https://finance.yahoo.com/m/c95e64fd-4a84-35d9-9177-139fd111568c/indonesia-urges-tiktok%2C-meta.html",
       "sentiment": 0
     }
+  ],
+  "2025-09-01": [
+    {
+      "title": "Meta Bright Group Berhad Full Year 2025 Earnings: EPS: RM0.005 (vs RM0.004 in FY 2024)",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/meta-bright-group-berhad-full-003909738.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Can META's Focus on AI-Optimized Data Centers Push the Stock Higher?",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/metas-focus-ai-optimized-data-163900613.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Meta AI bot created sexualised images of child celebrities",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/m/e7609654-296d-382e-ab54-05325444a185/meta-ai-bot-created.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Reliance and Meta to form $100m JV",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/m/e6c283eb-177d-3a30-be9d-56634aadc5f8/reliance-and-meta-to-form.html",
+      "sentiment": 0
+    },
+    {
+      "title": "The Art of Valuation: Discovering Meta Platforms Inc's Intrinsic Value",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/art-valuation-discovering-meta-platforms-120148999.html",
+      "sentiment": 14
+    },
+    {
+      "title": "MetaOptics Ltd Registers Offer Document on its Listing on SGX Catalist",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/metaoptics-ltd-registers-offer-document-115300639.html",
+      "sentiment": 7
+    }
+  ],
+  "2025-08-30": [
+    {
+      "title": "Meta reportedly allowed unauthorized celebrity AI chatbots on its services",
+      "date": "2025-08-30",
+      "url": "https://finance.yahoo.com/m/8faafbdd-f690-3a7d-9095-6a2dfe8dcbd3/meta-reportedly-allowed.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta Platforms Pauses AI Spend. Here's Why That's a Good Thing For Investors",
+      "date": "2025-08-30",
+      "url": "https://finance.yahoo.com/m/c708f920-da47-3119-8474-d985dc9a3620/meta-platforms-pauses-ai.html",
+      "sentiment": 3
+    },
+    {
+      "title": "ELD Asset Management on Meta Midjourney Pact",
+      "date": "2025-08-30",
+      "url": "https://finance.yahoo.com/news/eld-asset-management-meta-midjourney-203000669.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta is reportedly looking at using competing AI models to improve its apps",
+      "date": "2025-08-30",
+      "url": "https://finance.yahoo.com/m/b711c077-b793-3bad-a985-b13382501c8d/meta-is-reportedly-looking-at.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Bernstein Calls Meta the Top Consumer AI Play With Outperform Rating",
+      "date": "2025-08-30",
+      "url": "https://finance.yahoo.com/news/bernstein-calls-meta-top-consumer-132325455.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Meta Platforms and Apple Just Gave This Fellow \"Magnificent Seven\" Stock Great News",
+      "date": "2025-08-30",
+      "url": "https://finance.yahoo.com/m/3985bf18-1817-3c8d-92e3-81a8b3db4268/meta-platforms-and-apple-just.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta's AI leaders discuss using Google, OpenAI models in apps, The Information says",
+      "date": "2025-08-30",
+      "url": "https://finance.yahoo.com/news/metas-ai-leaders-discuss-using-000323486.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Elon Musk to Meta Platforms Inc. (META) Defense over $97.4B Bid Documents for OpenAI",
+      "date": "2025-08-30",
+      "url": "https://finance.yahoo.com/news/elon-musk-meta-platforms-inc-034241305.html",
+      "sentiment": 2
+    }
+  ],
+  "2025-08-31": [
+    {
+      "title": "When will Meta catch Google (search)? Bernstein answers",
+      "date": "2025-08-31",
+      "url": "https://finance.yahoo.com/news/meta-catch-google-search-bernstein-093003516.html",
+      "sentiment": 6
+    }
+  ],
+  "2025-08-29": [
+    {
+      "title": "Meta Platforms Reportedly Seeing Some AI Hires Depart After Brief Tenures",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/news/meta-platforms-reportedly-seeing-ai-170744679.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Meta is re-training its AI so it won't discuss self-harm or have romantic conversations with teens",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/m/c910d7bc-ae22-32b0-bac2-6fb801c96d97/meta-is-re-training-its-ai-so.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Meta to add new AI safeguards after Reuters report raises teen safety concerns",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/m/fc17ef2e-60dc-35ff-a0cc-fb1fea8d2fa7/meta-to-add-new-ai-safeguards.html",
+      "sentiment": 0
+    }
   ]
 }

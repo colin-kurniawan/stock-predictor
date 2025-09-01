@@ -808,5 +808,95 @@
       "url": "https://finance.yahoo.com/m/d607b159-bb17-3dbf-985f-0aa2b9530aa6/dow-jones-futures%3A-nvidia.html",
       "sentiment": 0
     }
+  ],
+  "2025-09-01": [
+    {
+      "title": "Rothschild & Redburn Reiterate Buy on Nvidia (NVDA), Cite Strong AI Moat",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/rothschild-redburn-reiterate-buy-nvidia-045341043.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Nvidia vs. Palantir: The Better Growth Stock to Own Today",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/m/e2c99063-4ab7-32ec-8c58-ed87d0490e43/nvidia-vs.-palantir%3A-the.html",
+      "sentiment": 7
+    },
+    {
+      "title": "Should You Buy, Sell or Hold NVIDIA Stock Post Strong Q2 Earnings?",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/buy-sell-hold-nvidia-stock-144200105.html",
+      "sentiment": 9
+    },
+    {
+      "title": "NVIDIA Corporation (NVDA) Is a Trending Stock: Facts to Know Before Betting on It",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-trending-stock-130004676.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Nvidia Ordered to Face Trial Over Alleged Valeo Trade Secret Theft",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/nvidia-ordered-face-trial-over-162553038.html",
+      "sentiment": 0
+    },
+    {
+      "title": "The Art of Valuation: Discovering NVIDIA Corp's Intrinsic Value",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/art-valuation-discovering-nvidia-corps-120130699.html",
+      "sentiment": 14
+    },
+    {
+      "title": "Nvidia Rides AI Wave With 56% Revenue Jump Despite U.S.-China Tensions",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/nvidia-rides-ai-wave-56-141812459.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Nvidia Is Set to Get a Big Boost From OpenAI. Here\u2019s How Much.",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/m/1677b616-3ab5-3f9a-9369-94742802e23e/nvidia-is-set-to-get-a-big.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-31": [
+    {
+      "title": "NVIDIA Corporation (NVDA): Take A Look At Jim Cramer\u2019s 1,000+ Words About The Stock After Q2 Earnings",
+      "date": "2025-08-31",
+      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-look-jim-135827967.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Nvidia: 2 catalysts that are fueling more growth",
+      "date": "2025-08-31",
+      "url": "https://finance.yahoo.com/video/nvidia-2-catalysts-fueling-more-180040144.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Nvidia's $60 Billion Buyback Plan: Good or Bad News for Investors?",
+      "date": "2025-08-31",
+      "url": "https://finance.yahoo.com/m/c67a6cdd-4561-3e73-989f-7a6c7eeb9419/nvidia%27s-%2460-billion-buyback.html",
+      "sentiment": 4
+    },
+    {
+      "title": "Nvidia CEO Huang on what will be a 'very big part of our business'",
+      "date": "2025-08-31",
+      "url": "https://finance.yahoo.com/video/nvidia-ceo-huang-very-big-120033233.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Prediction: Nvidia Will Soar Over the Next 5 Years. Here's 1 Reason Why.",
+      "date": "2025-08-31",
+      "url": "https://finance.yahoo.com/m/926f647a-7ad8-3e07-abef-93a569b1e8f3/prediction%3A-nvidia-will-soar.html",
+      "sentiment": 3
+    }
+  ],
+  "2025-08-30": [
+    {
+      "title": "Nvidia (NVDA) Maintains AI Leadership, William Blair Says",
+      "date": "2025-08-30",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-maintains-ai-leadership-233657829.html",
+      "sentiment": 6
+    }
   ]
 }

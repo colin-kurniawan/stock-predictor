@@ -216,5 +216,59 @@
       "url": "https://finance.yahoo.com/news/visa-host-visa-payments-forum-135400010.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-29": [
+    {
+      "title": "Zacks Industry Outlook Highlights Visa, Mastercard, Fiserv, PayPal Holdings and WEX",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-visa-161400578.html",
+      "sentiment": 15
+    },
+    {
+      "title": "Visa Stock: Is V Outperforming the Financial Services Sector?",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/m/a56e930c-dedf-3fc0-881f-0a8d83f63a57/visa-stock%3A-is-v.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Visa (V) Shuts Down US Open-Banking Unit Amid Regulatory Uncertainty",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/news/visa-v-shuts-down-us-043322448.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-08-28": [
+    {
+      "title": "Is Visa\u2019s 31% Rally Justified After Recent Payment Volume Growth?",
+      "date": "2025-08-28",
+      "url": "https://finance.yahoo.com/news/visa-31-rally-justified-recent-101447471.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Stablecoin payments might not threaten Visa and Mastercard, but consumers are still winners",
+      "date": "2025-08-28",
+      "url": "https://finance.yahoo.com/news/stablecoin-payments-might-not-threaten-visa-and-mastercard-but-consumers-are-still-winners-100036191.html",
+      "sentiment": 0
+    },
+    {
+      "title": "If You Buy Visa With $10,000 in 2025, Will You Become a Millionaire in 10 Years?",
+      "date": "2025-08-28",
+      "url": "https://finance.yahoo.com/m/793fb89c-15f3-3031-9b55-580d016148a6/if-you-buy-visa-with-%2410%2C000.html",
+      "sentiment": 3
+    }
+  ],
+  "2025-09-01": [
+    {
+      "title": "Visa's Future in the Stablecoin Era: Friend, Foe, or Frenemy?",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/visas-future-stablecoin-era-friend-153700127.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Octopus Electroverse and Visa introduce fleet payment car",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/m/4e26ca17-b472-3ff7-9b82-6329b494fee2/octopus-electroverse-and-visa.html",
+      "sentiment": 0
+    }
   ]
 }

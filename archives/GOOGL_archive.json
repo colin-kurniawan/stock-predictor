@@ -238,5 +238,35 @@
       "url": "https://finance.yahoo.com/news/google-invest-another-9-billion-204502528.html",
       "sentiment": 0
     }
+  ],
+  "2025-08-31": [
+    {
+      "title": "FTC chair warns Google about Gmail\u2019s \u2018partisan\u2019 spam filters",
+      "date": "2025-08-31",
+      "url": "https://finance.yahoo.com/news/ftc-chair-warns-google-gmail-170357078.html",
+      "sentiment": -1
+    },
+    {
+      "title": "When will Meta catch Google (search)? Bernstein answers",
+      "date": "2025-08-31",
+      "url": "https://finance.yahoo.com/news/meta-catch-google-search-bernstein-093003516.html",
+      "sentiment": 6
+    }
+  ],
+  "2025-08-29": [
+    {
+      "title": "A Fresh Look at Google's (GOOGL) Valuation After Defense AI Deal and New Pixel Launch",
+      "date": "2025-08-29",
+      "url": "https://finance.yahoo.com/news/fresh-look-googles-googl-valuation-101243990.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-09-01": [
+    {
+      "title": "He Sold His First Startup To Google For $100M \u2014 Now Seth Sternberg Warns 'We Are Aging So Quickly' While Building AI Eldercare Giant",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/sold-first-startup-google-100m-160031904.html",
+      "sentiment": 1
+    }
   ]
 }

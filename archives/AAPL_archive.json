@@ -424,5 +424,41 @@
       "url": "https://finance.yahoo.com/news/apple-google-likely-tie-siri-100000800.html",
       "sentiment": 1
     }
+  ],
+  "2025-08-31": [
+    {
+      "title": "Jim Cramer on Apple: \u201cThey Don\u2019t Have an AI Strategy\u201d",
+      "date": "2025-08-31",
+      "url": "https://finance.yahoo.com/news/jim-cramer-apple-don-t-042736890.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-08-30": [
+    {
+      "title": "Apple\u2019s (AAPL) September 9 \u201cAwe-Dropping\u201d Event Could Spark iPhone Upgrade Cycle",
+      "date": "2025-08-30",
+      "url": "https://finance.yahoo.com/news/apple-aapl-september-9-awe-132919430.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-09-01": [
+    {
+      "title": "Apple's Expanding Game Content to Aid Services Growth: What's Ahead?",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/apples-expanding-game-content-aid-163100253.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Apple's AI could be revived by this acquisition, Dan Ives says",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/video/apples-ai-could-revived-acquisition-120000538.html",
+      "sentiment": 1
+    },
+    {
+      "title": "The Art of Valuation: Discovering Apple Inc's Intrinsic Value",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/art-valuation-discovering-apple-incs-120137626.html",
+      "sentiment": 14
+    }
   ]
 }

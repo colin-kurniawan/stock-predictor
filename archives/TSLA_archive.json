@@ -486,5 +486,87 @@
       "url": "https://finance.yahoo.com/m/5616f6aa-8028-3eaf-b25e-9a2e059ea387/tesla%27s-ai-hype-is-doing-the.html",
       "sentiment": -2
     }
+  ],
+  "2025-09-01": [
+    {
+      "title": "Tesla (TSLA) Faces Market Share Loss in Europe but Wins Praise for AI Advances",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/tesla-tsla-faces-market-share-043146341.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Tesla cuts price for long-range RWD Model 3 in China",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/tesla-cuts-price-long-range-010742837.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Tesla Rival XPeng, Xiaomi Report Strong China EV Sales; Nio, Li, BYD On Tap",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/m/f9473e51-694f-369b-8d01-d6175912c28d/tesla-rival-xpeng%2C-xiaomi.html",
+      "sentiment": 1
+    },
+    {
+      "title": "TSLA: Tesla Sales Plunge 84% in Sweden While Rivals Gain",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/tsla-tesla-sales-plunge-84-130143957.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Investors Heavily Search Tesla, Inc. (TSLA): Here is What You Need to Know",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/investors-heavily-search-tesla-inc-130003473.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla Slides in Europe as BYD Surges",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/tesla-slides-europe-byd-surges-164441319.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Tesla and Alphabet's Waymo Chart Different Paths for Robotaxis",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/tesla-alphabets-waymo-chart-different-145530278.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Koreans Dump $657M in Tesla--Crypto Mania Sparks Mass Exodus",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/koreans-dump-657m-tesla-crypto-164854241.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Tesla's sales rout in some European markets extends to eighth month",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/teslas-sales-rout-european-markets-102511989.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Tesla\u2019s Europe Slump Deepens as BYD Surges",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/news/tesla-europe-slump-deepens-byd-201019441.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Tesla Rivals XPeng, Nio Report Record China EV Sales; Xiaomi, Li, BYD Also Out",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/m/f9473e51-694f-369b-8d01-d6175912c28d/tesla-rivals-xpeng%2C-nio.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla's sales rout in some European markets continues for eighth month",
+      "date": "2025-09-01",
+      "url": "https://finance.yahoo.com/video/teslas-sales-rout-european-markets-150048459.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-08-31": [
+    {
+      "title": "MrBeast Overhauls Tesla Giveaway Strategy as Beast Industries Shakes Up Leadership",
+      "date": "2025-08-31",
+      "url": "https://finance.yahoo.com/news/mrbeast-overhauls-tesla-giveaway-strategy-194054080.html",
+      "sentiment": 0
+    }
   ]
 }
