@@ -277,6 +277,18 @@
       "date": "2025-09-02",
       "url": "https://finance.yahoo.com/news/visa-partners-ample-earth-power-002800759.html",
       "sentiment": 0
+    },
+    {
+      "title": "/DISREGARD RELEASE: Ample/",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/visa-partners-ample-earth-power-072800231.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Visa ramps new fraud prevention program",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/m/00e98f78-28c9-319f-848f-e21458b10b15/visa-ramps-new-fraud.html",
+      "sentiment": 1
     }
   ]
 }

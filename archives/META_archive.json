@@ -902,5 +902,39 @@
       "url": "https://finance.yahoo.com/m/fc17ef2e-60dc-35ff-a0cc-fb1fea8d2fa7/meta-to-add-new-ai-safeguards.html",
       "sentiment": 0
     }
+  ],
+  "2025-09-02": [
+    {
+      "title": "Meta Will Enable You to Exclude Terms from AI Copy Generations",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/m/833bab5d-1916-33be-aae1-381534f84860/meta-will-enable-you-to.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Market Chatter: Meta Created Celebrity Chatbots Using Names, Likenesses Without Consent",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/market-chatter-meta-created-celebrity-110355230.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Meta Moves To Curb Teen AI Risks",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/meta-moves-curb-teen-ai-204808431.html",
+      "sentiment": 0
+    },
+    {
+      "title": "OpenAI and Meta say they're fixing AI chatbots to better respond to teens in distress",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/m/c4cc1343-806f-3c5a-8c40-91ecf8b4308c/openai-and-meta-say-they%27re.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-09-03": [
+    {
+      "title": "Singapore orders Meta to implement anti-scam measures or face possible fine",
+      "date": "2025-09-03",
+      "url": "https://finance.yahoo.com/m/fbafe932-b476-3cb1-9a95-93be7c7780e7/singapore-orders-meta-to.html",
+      "sentiment": 0
+    }
   ]
 }

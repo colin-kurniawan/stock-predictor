@@ -460,5 +460,45 @@
       "url": "https://finance.yahoo.com/news/art-valuation-discovering-apple-incs-120137626.html",
       "sentiment": 14
     }
+  ],
+  "2025-09-02": [
+    {
+      "title": "Market Chatter: Apple's Robotics AI Chief Leaves for Meta",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/market-chatter-apple-apos-robotics-200109907.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Apple announces Hebbal store opens Tuesday, September 2",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/apple-announces-hebbal-store-opens-124518438.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Apple (AAPL) Partners with TuneIn for Global Radio Stations Distribution",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/apple-aapl-partners-tunein-global-050458557.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Is Apple\u2019s iPhone 17 a Game Changer? It Could Be in the Air.",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/m/f5c36394-0567-388f-8b2c-af90eebc9b1f/is-apple%E2%80%99s-iphone-17-a-game.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-09-03": [
+    {
+      "title": "Apple is a winner following the Google antitrust ruling",
+      "date": "2025-09-03",
+      "url": "https://finance.yahoo.com/m/189c233b-4b81-39c8-92de-962d834bd5ad/apple-is-a-winner-following.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Apple Koregaon Park opens to customers this Thursday, September 4, in Pune",
+      "date": "2025-09-03",
+      "url": "https://finance.yahoo.com/news/apple-koregaon-park-opens-customers-053000386.html",
+      "sentiment": 0
+    }
   ]
 }

@@ -144,5 +144,31 @@
       "url": "https://finance.yahoo.com/m/7c30df8d-ea24-3e8b-808e-e938aae1cf69/how-is-johnson-%26-johnson%E2%80%99s.html",
       "sentiment": 2
     }
+  ],
+  "2025-09-02": [
+    {
+      "title": "Johnson & Johnson Unveils Results from the VARIPURE Substudy of SECURE, a Real-World Study on VARIPULSE\u2122 Platform, at 2025 European Society of Cardiology (ESC) Congress",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-unveils-results-varipure-120000591.html",
+      "sentiment": 2
+    },
+    {
+      "title": "Johnson & Johnson Says Varipure Showed 'Strong' Safety Outcomes in Pulsed Field Ablation Procedures",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-says-varipure-showed-123751849.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Johnson & Johnson (JNJ)\u2019s Carvykti Sales Skyrocket 100% Amid Specialty Medicine Growth",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-jnj-carvykti-sales-072702528.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Johnson & Johnson Scores With Heart Pump Breakthrough",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-scores-heart-pump-195352574.html",
+      "sentiment": 0
+    }
   ]
 }

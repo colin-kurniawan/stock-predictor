@@ -898,5 +898,51 @@
       "url": "https://finance.yahoo.com/news/nvidia-nvda-maintains-ai-leadership-233657829.html",
       "sentiment": 6
     }
+  ],
+  "2025-09-03": [
+    {
+      "title": "Nvidia Is 'Going To $5 Trillion' Says Dan Ives, But This Expert Says If 'AI Turns Out To Be Just A Bubble,' NVDA May Collapse",
+      "date": "2025-09-03",
+      "url": "https://finance.yahoo.com/news/nvidia-going-5-trillion-says-023107788.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-09-02": [
+    {
+      "title": "NVIDIA's Q2 Sales Hit $46B: Can Blackwell Ramp-Up Deliver $54B in Q3?",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/nvidias-q2-sales-hit-46b-130600832.html",
+      "sentiment": 7
+    },
+    {
+      "title": "NVDA: Nvidia Faces Massive Tailwinds from OpenAI Data Center Expansion",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/nvda-nvidia-faces-massive-tailwinds-140237979.html",
+      "sentiment": 1
+    },
+    {
+      "title": "NVIDIA Corp (NVDA) Warns of Legal Risks on Missing Regulations for US 15% AI Chips Fees",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/nvidia-corp-nvda-warns-legal-151320989.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Top Analyst Reports for NVIDIA, Chevron & Booking",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/top-analyst-reports-nvidia-chevron-213300926.html",
+      "sentiment": 11
+    },
+    {
+      "title": "Will Nvidia Stock Soar if Interest Rates are Cut in September?",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/nvidia-stock-soar-interest-rates-232000817.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Nvidia extends declines, activist investor's $4B PepsiCo stake",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/video/nvidia-extends-declines-activist-investors-171438644.html",
+      "sentiment": -1
+    }
   ]
 }

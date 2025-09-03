@@ -268,5 +268,63 @@
       "url": "https://finance.yahoo.com/news/sold-first-startup-google-100m-160031904.html",
       "sentiment": 1
     }
+  ],
+  "2025-09-03": [
+    {
+      "title": "Dow Jones Futures: Google, Apple Jump On Antitrust Ruling After Stocks Pare Losses",
+      "date": "2025-09-03",
+      "url": "https://finance.yahoo.com/m/6ba49640-396a-301d-a4d2-79afbe4d8d42/dow-jones-futures%3A-google%2C.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Google Dodges Worst Penalties in U.S. Antitrust Case",
+      "date": "2025-09-03",
+      "url": "https://finance.yahoo.com/m/258e835f-f7e3-3906-a9d3-9b41c323398a/google-dodges-worst-penalties.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Google won't have to sell Chrome, but must share data: judge",
+      "date": "2025-09-03",
+      "url": "https://finance.yahoo.com/video/google-wont-sell-chrome-must-035738695.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Google Keeps Chrome as Judge Rejects Breakup: Here\u2019s Why It Matters",
+      "date": "2025-09-03",
+      "url": "https://finance.yahoo.com/m/e1ca2383-f01a-3d61-89a8-b59cf1d04d79/google-keeps-chrome-as-judge.html",
+      "sentiment": 0
+    }
+  ],
+  "2025-09-02": [
+    {
+      "title": "Google won't have to sell Chrome, a federal judge rules",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/video/google-wont-sell-chrome-federal-205608881.html",
+      "sentiment": -2
+    },
+    {
+      "title": "Google Just Scored a Big Legal Win for Chrome and Its Search Business",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/m/2df3e9e4-473b-3c04-9328-ef561ca7b106/google-just-scored-a-big.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Google won't be forced to sell Chrome after judge rules divestment a 'poor fit' in landmark antitrust case",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/google-wont-be-forced-to-sell-chrome-after-judge-rules-divestment-a-poor-fit-in-landmark-antitrust-case-210218257.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Google Stock Climbs On Judge's Ruling In Search Antitrust Case. Was AI A Factor?",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/m/b7ec814a-f303-335d-bed1-b69fada68158/google-stock-climbs-on.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Market Chatter: EU Delays Google Adtech Fine Over Fears of Trump Backlash",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/market-chatter-eu-delays-google-142125341.html",
+      "sentiment": 1
+    }
   ]
 }

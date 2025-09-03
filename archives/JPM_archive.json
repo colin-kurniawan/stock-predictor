@@ -300,5 +300,19 @@
       "url": "https://finance.yahoo.com/news/tesco-stock-j-p-morgan-103959402.html",
       "sentiment": 1
     }
+  ],
+  "2025-09-02": [
+    {
+      "title": "JPMorgan Chase & Co (JPM) Hires More Tech Experts to Strengthen M&A Business",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/jpmorgan-chase-co-jpm-hires-151325401.html",
+      "sentiment": 1
+    },
+    {
+      "title": "JPMorgan Chase Insider Sold Shares Worth $2,830,472, According to a Recent SEC Filing",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/jpmorgan-chase-insider-sold-shares-205614407.html",
+      "sentiment": 1
+    }
   ]
 }

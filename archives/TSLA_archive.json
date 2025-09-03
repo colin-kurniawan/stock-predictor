@@ -568,5 +568,87 @@
       "url": "https://finance.yahoo.com/news/mrbeast-overhauls-tesla-giveaway-strategy-194054080.html",
       "sentiment": 0
     }
+  ],
+  "2025-09-02": [
+    {
+      "title": "Will Tesla's Latest Price Cut Help It Regain Momentum in China?",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/teslas-latest-price-cut-help-145000363.html",
+      "sentiment": -3
+    },
+    {
+      "title": "Tesla (TSLA): Assessing Valuation as Share Swings Spark Fresh Debate",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/tesla-tsla-assessing-valuation-share-100551010.html",
+      "sentiment": 5
+    },
+    {
+      "title": "Tesla's $20 Trillion Secret? Musk Says Robots Could Be 80% Of Its Value",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/teslas-20-trillion-secret-musk-180707203.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Customers Don\u2019t Like Tesla\u2019s FSD. Should You Hit the Brakes on TSLA Stock in September 2025?",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/m/f3dda835-f16e-3d6d-86c8-4163dced8a26/customers-don%E2%80%99t-like-tesla%E2%80%99s.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla's China-Made EV Sales Fall in August",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/tesla-apos-china-made-ev-114406168.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla Tops Norway Auto Sales in August as Sales of EVs Hit 97% Share",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/tesla-tops-norway-auto-sales-115944571.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla Reduces Price for Model 3 in China",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/tesla-reduces-price-model-3-105521486.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Market Chatter: Tesla Receives Roughly 600 Orders in India Since Launch",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/market-chatter-tesla-receives-roughly-082448160.html",
+      "sentiment": 1
+    },
+    {
+      "title": "Tesla, gold mining stocks, McDonald's: Trending Tickers",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/video/tesla-gold-mining-stocks-mcdonalds-154820938.html",
+      "sentiment": 3
+    },
+    {
+      "title": "Tesla Shares Fall as China Sales Rise but Europe Deliveries Collapse",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/tesla-shares-fall-china-sales-213145477.html",
+      "sentiment": -1
+    },
+    {
+      "title": "Tesla Stock Drops. It Sold How Many Cars in India?",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/m/d4310a2b-a4ed-3e9f-b187-57c2f35283e4/tesla-stock-drops.-it-sold.html",
+      "sentiment": 0
+    },
+    {
+      "title": "Tesla's India Dream Hits a Wall: Just 600 Orders, While BYD Doubles Down",
+      "date": "2025-09-02",
+      "url": "https://finance.yahoo.com/news/teslas-india-dream-hits-wall-194314625.html",
+      "sentiment": 1
+    }
+  ],
+  "2025-09-03": [
+    {
+      "title": "Is Tesla Stock a Buy Now?",
+      "date": "2025-09-03",
+      "url": "https://finance.yahoo.com/m/cfe1b736-2485-3838-9735-1f57817ba7f4/is-tesla-stock-a-buy-now%3F.html",
+      "sentiment": 1
+    }
   ]
 }
